@@ -3,6 +3,13 @@ package com.milley.RomanToInteger;
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+ leetcode 13. Roman to Integer
+ Given a roman numeral, convert it to an integer. Input 
+ is guaranteed to be within the range from 1 to 3999.
+ Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+ */
+
 public class Solution {
     private Map<String, Integer> romanMap;
 
