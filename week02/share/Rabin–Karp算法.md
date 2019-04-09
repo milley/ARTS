@@ -2,7 +2,7 @@
 
 ## 1. Rabin–Karp算法介绍
 
-Rabin–Karp算法是在brute-force基础上改进而来，BF算法每次模式串只移动一位，如果主字符串是一千万个字符a组成，模式串是一万个字符a后面跟一个字符b，这样BF算法的最坏复杂度就是O(mn)。
+Rabin–Karp[^1]算法是在brute-force基础上改进而来，BF算法每次模式串只移动一位，如果主字符串是一千万个字符a组成，模式串是一万个字符a后面跟一个字符b，这样BF算法的最坏复杂度就是O(mn)。
 
 RK算法使用了哈希算法，对主串中n-m+1个子串分别求哈希值，来和模式串的哈希值对比，如果哈希值相等，为了避免哈希碰撞，就需要把主字符串的子串和模式串本身对比是否相等。伪代码如下：
 
@@ -66,3 +66,5 @@ function RabinKarpSet(string s[1..n], set of string subs, m):
         hs := hash(s[i+1..i+m])
     return not found
 ```
+
+[^1]:(https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)

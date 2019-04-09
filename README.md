@@ -7,6 +7,7 @@ Algorithm、Review、Tip、Share
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |82|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./week01/algo/lc13/Solution.java),[C++](./week01/algo/lc13/Solution.cpp)|Easy|
 
 ## Review
@@ -26,3 +27,4 @@ Algorithm、Review、Tip、Share
 | # | Title |
 |---| ----- |
 |week1|[字符串匹配BF算法](./week01/share/字符串匹配BF算法.md)|
+|week2|[Rabin–Karp算法](./week02/share/Rabin–Karp算法.md)|
