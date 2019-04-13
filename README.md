@@ -15,12 +15,14 @@ Algorithm、Review、Tip、Share
 | # | Title |
 |---| ----- |
 |week1|[注释的作用](./week01/review/注释的作用.md)|
+|week2|[什么是整洁的代码](./week02/review/什么是整洁的代码.md)
 
 ## Tip
 
 | # | Title |
 |---| ----- |
 |week1|[复合索引](./week01/tip/复合索引.md)|
+|wekk2|[生成SQL中in的语句](./week02/tip/生成SQL中in的语句.md)
 
 ## Share
 
