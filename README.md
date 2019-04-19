@@ -6,6 +6,7 @@ Algorithm、Review、Tip、Share
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2|[Add Tow Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./week03/algo/lc2/AddTwoNumbers.java)|Easy|
 |82|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./week01/algo/lc13/Solution.java),[C++](./week01/algo/lc13/Solution.cpp)|Easy|
@@ -22,7 +23,8 @@ Algorithm、Review、Tip、Share
 | # | Title |
 |---| ----- |
 |week1|[复合索引](./week01/tip/复合索引.md)|
-|wekk2|[生成SQL中in的语句](./week02/tip/生成SQL中in的语句.md)
+|week2|[生成SQL中in的语句](./week02/tip/生成SQL中in的语句.md)
+|week3|[cmd打开常用目录](./week03/tip/cmd打开常用目录.md)
 
 ## Share
 
