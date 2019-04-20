@@ -32,3 +32,4 @@ Algorithm、Review、Tip、Share
 |---| ----- |
 |week1|[字符串匹配BF算法](./week01/share/字符串匹配BF算法.md)|
 |week2|[Rabin–Karp算法](./week02/share/Rabin–Karp算法.md)|
+|week3|[Boyer-Moore算法](./week03/share/Boyer-Moore算法.md)|
