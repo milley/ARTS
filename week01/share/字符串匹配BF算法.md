@@ -5,7 +5,8 @@
 BF算法中的BF是Brute Force的缩写，也叫朴素匹配算法。我们把字符串分为主串和模式串。
 
 在字符串A中查找字符串B，那么A就是主串，B就是模式串。主串长度记为n，模式串长度记为m，m>n。
-![BF Search](./image/字符串匹配BF算法.jpg)
+
+<img src="image/字符串匹配BF算法.jpg" alt="BF" width="600" />
 
 ## 2. 代码实现
 
