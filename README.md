@@ -7,9 +7,10 @@ Algorithm、Review、Tip、Share
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |2|[Add Tow Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./week03/algo/lc2/AddTwoNumbers.java)|Easy|
-|82|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./week01/algo/lc13/Solution.java),[C++](./week01/algo/lc13/Solution.cpp)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/duplicate-emails/https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
 
 ## Review
 
