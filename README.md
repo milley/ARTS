@@ -28,7 +28,7 @@ Algorithm、Review、Tip、Share
 |week1|[复合索引](./week01/tip/复合索引.md)|
 |week2|[生成SQL中in的语句](./week02/tip/生成SQL中in的语句.md)|
 |week3|[cmd打开常用目录](./week03/tip/cmd打开常用目录.md)|
-|week4|[glidb管理包](./week04/tip/glide管理包.md)|
+|week4|[glide管理包](./week04/tip/glide管理包.md)|
 
 ## Share
 
