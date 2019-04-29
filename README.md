@@ -29,6 +29,7 @@ Algorithm、Review、Tip、Share
 |week2|[生成SQL中in的语句](./week02/tip/生成SQL中in的语句.md)|
 |week3|[cmd打开常用目录](./week03/tip/cmd打开常用目录.md)|
 |week4|[glide管理包](./week04/tip/glide管理包.md)|
+|week5|[win使用scoop来管理工具](./week05/tip/win使用scoop来管理工具.md)|
 
 ## Share
 
