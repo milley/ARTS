@@ -20,6 +20,7 @@ Algorithm、Review、Tip、Share
 |week2|[什么是整洁的代码](./week02/review/什么是整洁的代码.md)|
 |week3|[为什么Goroutines不是轻量级的线程](./week03/review/为什么go程不是轻量级的线程.md)|
 |week4|[使用C++创建一个网站](./week04/review/使用C++创建一个网站.md)|
+|week5|[在谷歌，Java开发者都使用Guava](./week05/review/在谷歌，Java开发者都使用Guava.md)|
 
 ## Tip
 
