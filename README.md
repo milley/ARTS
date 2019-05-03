@@ -40,3 +40,4 @@ Algorithm、Review、Tip、Share
 |week2|[Rabin–Karp算法](./week02/share/Rabin–Karp算法.md)|
 |week3|[Boyer-Moore算法](./week03/share/Boyer-Moore算法.md)|
 |week4|[KMP算法](./week04/share/KMP算法.md)|
+|week5|[Trie树算法](./week05/share/使用Trie树实现搜索引擎的搜索关键词提示功能.md)|
