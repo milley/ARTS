@@ -12,6 +12,7 @@ Algorithm、Review、Tip、Share
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/duplicate-emails/https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 
 ## Review
 
@@ -22,6 +23,7 @@ Algorithm、Review、Tip、Share
 |week3|[为什么Goroutines不是轻量级的线程](./week03/review/为什么go程不是轻量级的线程.md)|
 |week4|[使用C++创建一个网站](./week04/review/使用C++创建一个网站.md)|
 |week5|[在谷歌，Java开发者都使用Guava](./week05/review/在谷歌，Java开发者都使用Guava.md)|
+|week6|[pandas getting started-Package overview](./week06/review/pandas_get_started_1.md)|
 
 ## Tip
 
@@ -32,6 +34,7 @@ Algorithm、Review、Tip、Share
 |week3|[cmd打开常用目录](./week03/tip/cmd打开常用目录.md)|
 |week4|[glide管理包](./week04/tip/glide管理包.md)|
 |week5|[win使用scoop来管理工具](./week05/tip/win使用scoop来管理工具.md)|
+|week6|[TerminalOnWindows](./week06/tip/TerminalOnWindows.md)|
 
 ## Share
 
@@ -42,3 +45,4 @@ Algorithm、Review、Tip、Share
 |week3|[Boyer-Moore算法](./week03/share/Boyer-Moore算法.md)|
 |week4|[KMP算法](./week04/share/KMP算法.md)|
 |week5|[Trie树算法](./week05/share/使用Trie树实现搜索引擎的搜索关键词提示功能.md)|
+|week6|[阿里巴巴程序员常用的 15 款开发者工具](./week06/share/阿里巴巴程序员常用的 15 款开发者工具.md)|
