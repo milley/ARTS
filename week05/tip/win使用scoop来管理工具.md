@@ -8,7 +8,7 @@
 set-executionpolicy remotesigned -scope currentuser
 ```
 
-## 2. 安装Scoop:
+## 2. 安装Scoop
 
 ```bash
 iex (new-object net.webclient).downloadstring('https://get.scoop.sh')

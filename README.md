@@ -35,6 +35,7 @@ Algorithm、Review、Tip、Share
 |week4|[glide管理包](./week04/tip/glide管理包.md)|
 |week5|[win使用scoop来管理工具](./week05/tip/win使用scoop来管理工具.md)|
 |week6|[TerminalOnWindows](./week06/tip/TerminalOnWindows.md)|
+|week7|[Arthas基本操作](./week07/tip/Arthas基本操作.md)|
 
 ## Share
 
