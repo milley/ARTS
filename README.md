@@ -47,3 +47,4 @@ Algorithm、Review、Tip、Share
 |week4|[KMP算法](./week04/share/KMP算法.md)|
 |week5|[Trie树算法](./week05/share/使用Trie树实现搜索引擎的搜索关键词提示功能.md)|
 |week6|[阿里巴巴程序员常用的 15 款开发者工具](./week06/share/阿里巴巴程序员常用的 15 款开发者工具.md)|
+|week7|[AC自动机：如何用多模式串匹配实现敏感词过滤功能](./week07/share/AC自动机：如何用多模式串匹配实现敏感词过滤功能.md)|
