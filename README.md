@@ -24,6 +24,7 @@ Algorithm、Review、Tip、Share
 |week4|[使用C++创建一个网站](./week04/review/使用C++创建一个网站.md)|
 |week5|[在谷歌，Java开发者都使用Guava](./week05/review/在谷歌，Java开发者都使用Guava.md)|
 |week6|[pandas getting started-Package overview](./week06/review/pandas_get_started_1.md)|
+|week7|[10个Python-Pandas技巧提升你的工作效率](./week07/review/10个Python_Pandas技巧提升你的工作效率.md)|
 
 ## Tip
 
@@ -46,5 +47,5 @@ Algorithm、Review、Tip、Share
 |week3|[Boyer-Moore算法](./week03/share/Boyer-Moore算法.md)|
 |week4|[KMP算法](./week04/share/KMP算法.md)|
 |week5|[Trie树算法](./week05/share/使用Trie树实现搜索引擎的搜索关键词提示功能.md)|
-|week6|[阿里巴巴程序员常用的 15 款开发者工具](./week06/share/阿里巴巴程序员常用的 15 款开发者工具.md)|
+|week6|[阿里巴巴程序员常用的15款开发者工具](./week06/share/阿里巴巴程序员常用的15款开发者工具.md)|
 |week7|[AC自动机：如何用多模式串匹配实现敏感词过滤功能](./week07/share/AC自动机：如何用多模式串匹配实现敏感词过滤功能.md)|
