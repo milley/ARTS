@@ -7,6 +7,7 @@ Algorithm、Review、Tip、Share
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |2|[Add Tow Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./week03/algo/lc2/AddTwoNumbers.java)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./week07/algo/lc7/Solution.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./week01/algo/lc13/Solution.java),[C++](./week01/algo/lc13/Solution.cpp)|Easy|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
