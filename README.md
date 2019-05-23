@@ -12,6 +12,7 @@ Algorithm、Review、Tip、Share
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[JAVA](./week08/algo/lc227/Calculator.java)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/duplicate-emails/https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 
@@ -38,6 +39,7 @@ Algorithm、Review、Tip、Share
 |week5|[win使用scoop来管理工具](./week05/tip/win使用scoop来管理工具.md)|
 |week6|[TerminalOnWindows](./week06/tip/TerminalOnWindows.md)|
 |week7|[Arthas基本操作](./week07/tip/Arthas基本操作.md)|
+|week8|[使用zeal查找帮助文档](./week08/tip/使用zeal查找帮助文档.md)|
 
 ## Share
 
