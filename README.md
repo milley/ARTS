@@ -27,6 +27,7 @@ Algorithm、Review、Tip、Share
 |week5|[在谷歌，Java开发者都使用Guava](./week05/review/在谷歌，Java开发者都使用Guava.md)|
 |week6|[pandas getting started-Package overview](./week06/review/pandas_get_started_1.md)|
 |week7|[10个Python-Pandas技巧提升你的工作效率](./week07/review/10个Python_Pandas技巧提升你的工作效率.md)|
+|week8|[10分钟了解pandas-1](./week08/review/10分钟了解pandas-1.md)|
 
 ## Tip
 
