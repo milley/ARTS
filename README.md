@@ -28,6 +28,7 @@ Algorithm、Review、Tip、Share
 |week6|[pandas getting started-Package overview](./week06/review/pandas_get_started_1.md)|
 |week7|[10个Python-Pandas技巧提升你的工作效率](./week07/review/10个Python_Pandas技巧提升你的工作效率.md)|
 |week8|[10分钟了解pandas-1](./week08/review/10分钟了解pandas-1.md)|
+|week9|[Zookeeper-Overview](./week09/review/Zookeeper-Overview.md)|
 
 ## Tip
 
@@ -41,6 +42,7 @@ Algorithm、Review、Tip、Share
 |week6|[TerminalOnWindows](./week06/tip/TerminalOnWindows.md)|
 |week7|[Arthas基本操作](./week07/tip/Arthas基本操作.md)|
 |week8|[使用zeal查找帮助文档](./week08/tip/使用zeal查找帮助文档.md)|
+|week9|[使用DataGrip处理SQL](./week09/tip/使用DataGrip处理SQL.md)|
 
 ## Share
 
