@@ -30,6 +30,7 @@ Algorithm、Review、Tip、Share
 |week7|[10个Python-Pandas技巧提升你的工作效率](./week07/review/10个Python_Pandas技巧提升你的工作效率.md)|
 |week8|[10分钟了解pandas-1](./week08/review/10分钟了解pandas-1.md)|
 |week9|[Zookeeper-Overview](./week09/review/Zookeeper-Overview.md)|
+|week10|[ZooKeeper-GettingStartedGuide](./week10/review/ZooKeeper-GettingStartedGuide.md)|
 
 ## Tip
 
