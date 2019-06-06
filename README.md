@@ -46,6 +46,7 @@ Algorithm、Review、Tip、Share
 |week7|[Arthas基本操作](./week07/tip/Arthas基本操作.md)|
 |week8|[使用zeal查找帮助文档](./week08/tip/使用zeal查找帮助文档.md)|
 |week9|[使用DataGrip处理SQL](./week09/tip/使用DataGrip处理SQL.md)|
+|week10|[Chrome插件Octotree](./week10/tip/Chrome插件Octotree.md)|
 
 ## Share
 
