@@ -12,6 +12,7 @@ Algorithm、Review、Tip、Share
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./week10/algo/lc226/Solution.java)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/duplicate-emails/https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
@@ -59,3 +60,4 @@ Algorithm、Review、Tip、Share
 |week7|[AC自动机：如何用多模式串匹配实现敏感词过滤功能](./week07/share/AC自动机：如何用多模式串匹配实现敏感词过滤功能.md)|
 |week8|[BasicCalculator实现](./week08/share/BasicCalculator实现.md)|
 |week9|[贪心算法](./week09/share/贪心算法.md)|
+|week10|[使用归并算法计算逆序度](./week10/share/使用归并算法计算逆序度.md)|
