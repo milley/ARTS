@@ -15,6 +15,7 @@ Algorithm、Review、Tip、Share
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./week10/algo/lc226/Solution.java)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./week11/algo/lc257/Solution.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/duplicate-emails/https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 
