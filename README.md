@@ -33,6 +33,7 @@ Algorithm、Review、Tip、Share
 |week8|[10分钟了解pandas-1](./week08/review/10分钟了解pandas-1.md)|
 |week9|[Zookeeper-Overview](./week09/review/Zookeeper-Overview.md)|
 |week10|[ZooKeeper-GettingStartedGuide](./week10/review/ZooKeeper-GettingStartedGuide.md)|
+|week11|[10分钟了解pandas-2](./week11/review/10分钟了解pandas-2.md)|
 
 ## Tip
 
@@ -48,6 +49,7 @@ Algorithm、Review、Tip、Share
 |week8|[使用zeal查找帮助文档](./week08/tip/使用zeal查找帮助文档.md)|
 |week9|[使用DataGrip处理SQL](./week09/tip/使用DataGrip处理SQL.md)|
 |week10|[Chrome插件Octotree](./week10/tip/Chrome插件Octotree.md)|
+|week11|[markdown分享到博客](./week11/tip/markdown分享到博客.md)|
 
 ## Share
 
