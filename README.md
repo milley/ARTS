@@ -50,6 +50,7 @@ Algorithm、Review、Tip、Share
 |week9|[使用DataGrip处理SQL](./week09/tip/使用DataGrip处理SQL.md)|
 |week10|[Chrome插件Octotree](./week10/tip/Chrome插件Octotree.md)|
 |week11|[markdown分享到博客](./week11/tip/markdown分享到博客.md)|
+|week12|[IDEA下设置Tomcat的CLASSPATH](./week12/tip/IDEA下设置Tomcat的CLASSPATH.md)|
 
 ## Share
 
