@@ -12,6 +12,7 @@ Algorithm、Review、Tip、Share
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./week12/algo/lc101/Solution.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./week10/algo/lc226/Solution.java)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
