@@ -35,6 +35,7 @@ Algorithm、Review、Tip、Share
 |week9|[Zookeeper-Overview](./week09/review/Zookeeper-Overview.md)|
 |week10|[ZooKeeper-GettingStartedGuide](./week10/review/ZooKeeper-GettingStartedGuide.md)|
 |week11|[10分钟了解pandas-2](./week11/review/10分钟了解pandas-2.md)|
+|week12|[10分钟了解pandas-3](./week12/review/10分钟了解pandas-3.md)|
 
 ## Tip
 
@@ -68,3 +69,4 @@ Algorithm、Review、Tip、Share
 |week9|[贪心算法](./week09/share/贪心算法.md)|
 |week10|[使用归并算法计算逆序度](./week10/share/使用归并算法计算逆序度.md)|
 |week11|[回溯算法](./week11/share/回溯算法.md)|
+|week12|[回朔算法完成01背包问题](./week12/share/回朔算法完成01背包问题.md)|
