@@ -18,6 +18,7 @@ Algorithm、Review、Tip、Share
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./week11/algo/lc257/Solution.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/duplicate-emails/https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Java(./week13/algo/lc448/Solution.java)|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 
 ## Review
@@ -70,3 +71,4 @@ Algorithm、Review、Tip、Share
 |week10|[使用归并算法计算逆序度](./week10/share/使用归并算法计算逆序度.md)|
 |week11|[回溯算法](./week11/share/回溯算法.md)|
 |week12|[回朔算法完成01背包问题](./week12/share/回朔算法完成01背包问题.md)|
+|week13|[回朔算法完成正则表达式](./week13/share/回朔算法完成正则表达式.md)|
