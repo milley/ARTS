@@ -37,6 +37,7 @@ Algorithm、Review、Tip、Share
 |week10|[ZooKeeper-GettingStartedGuide](./week10/review/ZooKeeper-GettingStartedGuide.md)|
 |week11|[10分钟了解pandas-2](./week11/review/10分钟了解pandas-2.md)|
 |week12|[10分钟了解pandas-3](./week12/review/10分钟了解pandas-3.md)|
+|week13|[在Java中学习什么可以让你成为尤达大师](./week13/review/在Java中学习什么可以让你成为尤达大师.md)|
 
 ## Tip
 
@@ -54,6 +55,7 @@ Algorithm、Review、Tip、Share
 |week10|[Chrome插件Octotree](./week10/tip/Chrome插件Octotree.md)|
 |week11|[markdown分享到博客](./week11/tip/markdown分享到博客.md)|
 |week12|[IDEA下设置Tomcat的CLASSPATH](./week12/tip/IDEA下设置Tomcat的CLASSPATH.md)|
+|week13|[tesseract-JavaScript的OCR库](./week13/tip/tesseract-JavaScript的OCR库.md)|
 
 ## Share
 
