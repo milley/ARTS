@@ -40,6 +40,7 @@ Algorithm、Review、Tip、Share
 |week11|[10分钟了解pandas-2](./week11/review/10分钟了解pandas-2.md)|
 |week12|[10分钟了解pandas-3](./week12/review/10分钟了解pandas-3.md)|
 |week13|[在Java中学习什么可以让你成为尤达大师](./week13/review/在Java中学习什么可以让你成为尤达大师.md)|
+|week14|[使用5分钟学习C++的多线程](./week14/review/使用5分钟学习C++的多线程.md)|
 
 ## Tip
 
@@ -58,6 +59,7 @@ Algorithm、Review、Tip、Share
 |week11|[markdown分享到博客](./week11/tip/markdown分享到博客.md)|
 |week12|[IDEA下设置Tomcat的CLASSPATH](./week12/tip/IDEA下设置Tomcat的CLASSPATH.md)|
 |week13|[tesseract-JavaScript的OCR库](./week13/tip/tesseract-JavaScript的OCR库.md)|
+|week14|[RMind在线思维导图](./week14/tip/RMind在线思维导图.md)|
 
 ## Share
 
@@ -76,3 +78,4 @@ Algorithm、Review、Tip、Share
 |week11|[回溯算法](./week11/share/回溯算法.md)|
 |week12|[回朔算法完成01背包问题](./week12/share/回朔算法完成01背包问题.md)|
 |week13|[回朔算法完成正则表达式](./week13/share/回朔算法完成正则表达式.md)|
+|week14|[leetcode1103分糖果解题思路](./week14/share/leetcode1103分糖果解题思路.md)|
