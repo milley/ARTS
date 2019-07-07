@@ -24,6 +24,8 @@ Return an array (of length num_people and sum candies) that represents the final
 
 $\sqrt[2]{sum\times2}$
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{sum&space;\times&space;2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{sum&space;\times&space;2}" title="\sqrt{sum \times 2}" /></a>
+
 通过这个公式计算的结果再往下取整就是最后一个和前面分配规则一样的分配个数，通过Java实现：
 
 ```java
