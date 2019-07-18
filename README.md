@@ -63,6 +63,7 @@ Algorithm、Review、Tip、Share
 |week13|[tesseract-JavaScript的OCR库](./week13/tip/tesseract-JavaScript的OCR库.md)|
 |week14|[RMind在线思维导图](./week14/tip/RMind在线思维导图.md)|
 |week15|[github中显示数学公式](./week15/tip/github中显示数学公式.md)|
+|week16|[根据映射关系修改Map中的key](./week16/tip/根据映射关系修改Map中的key.md)|
 
 ## Share
 
