@@ -8,7 +8,6 @@
 
 <img src="image/chg_map_key_2.jpg" alt="chg_map_key_2" width="600" />
 
-
 ```java
 public static void main(String[] args) {
     Map<String, Object> excelMap = Maps.newHashMap();
