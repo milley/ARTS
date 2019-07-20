@@ -23,6 +23,7 @@ Algorithm、Review、Tip、Share
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./week16/algo/lc1108/Solution.java)|Easy|
 
 ## Review
 
@@ -43,6 +44,7 @@ Algorithm、Review、Tip、Share
 |week13|[在Java中学习什么可以让你成为尤达大师](./week13/review/在Java中学习什么可以让你成为尤达大师.md)|
 |week14|[使用5分钟学习C++的多线程](./week14/review/使用5分钟学习C++的多线程.md)|
 |week15|[实用的C++返回多个值](./week15/review/实用的C++返回多个值.md)|
+|week16|[如何给代码起有意义的名字](./week16/review/如何给代码起有意义的名字.md)|
 
 ## Tip
 
