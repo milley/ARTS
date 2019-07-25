@@ -78,7 +78,7 @@ public class ExcelWriter {
     private static String[] columns = {"Name", "Email", "Date Of Birth", "Salary"};
     private static List<Employee> employees =  new ArrayList<>();
 
-	// Initializing employees data to insert into the excel file
+    // Initializing employees data to insert into the excel file
     static {
         Calendar dateOfBirth = Calendar.getInstance();
         dateOfBirth.set(1992, 7, 21);
