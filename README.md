@@ -17,6 +17,7 @@ Algorithm、Review、Tip、Share
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](./week15/algo/lc239/Solution.java)|Hard|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./week17/algo/lc242/Solution.java)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./week11/algo/lc257/Solution.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/duplicate-emails/https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
