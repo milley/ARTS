@@ -25,6 +25,7 @@ Algorithm、Review、Tip、Share
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./week16/algo/lc1108/Solution.java)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./week18/algo/lc15/Solution.java)|Medium|
 
 ## Review
 
@@ -46,6 +47,8 @@ Algorithm、Review、Tip、Share
 |week14|[使用5分钟学习C++的多线程](./week14/review/使用5分钟学习C++的多线程.md)|
 |week15|[实用的C++返回多个值](./week15/review/实用的C++返回多个值.md)|
 |week16|[如何给代码起有意义的名字](./week16/review/如何给代码起有意义的名字.md)|
+|week17|[Java中使用Apache_POI写入Excel文件](./week17/review/Java中使用Apache_POI写入Excel文件.md)|
+|week18|[Java_Stream_API实用指南](./week18/review/Java_Stream_API实用指南.md)|
 
 ## Tip
 
@@ -68,6 +71,7 @@ Algorithm、Review、Tip、Share
 |week15|[github中显示数学公式](./week15/tip/github中显示数学公式.md)|
 |week16|[根据映射关系修改Map中的key](./week16/tip/根据映射关系修改Map中的key.md)|
 |week17|[ideavim按行替换字符](./week17/tip/ideavim按行替换字符.md)|
+|week18|[视频下载工具YouTube-DL](./week18/tip/视频下载工具YouTube-DL.md)|
 
 ## Share
 
@@ -88,5 +92,6 @@ Algorithm、Review、Tip、Share
 |week13|[回朔算法完成正则表达式](./week13/share/回朔算法完成正则表达式.md)|
 |week14|[leetcode1103分糖果解题思路](./week14/share/leetcode1103分糖果解题思路.md)|
 |week15|[leetcode239解题思路](./week15/share/leetcode239解题思路.md)|
-|week16|[正则表达式是如何实现的](./week16/share/正则表达式是如何实现的.md)|
+|week16|[使用递归计算平方根](./week16/share/使用递归计算平方根.md)|
 |week17|[Java中比较HashMap](./week17/share/Java中比较HashMap.md)|
+|week18|[使用动态规划解决0-1背包问题](./week18/share/使用动态规划解决0-1背包问题.md)|
