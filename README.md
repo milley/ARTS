@@ -9,6 +9,8 @@ Algorithm、Review、Tip、Share
 |2|[Add Tow Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./week03/algo/lc2/AddTwoNumbers.java)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./week07/algo/lc7/Solution.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./week01/algo/lc13/Solution.java),[C++](./week01/algo/lc13/Solution.cpp)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./week18/algo/lc15/Solution.java)|Medium|
+|18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](./week19/algo/lc18/Solution.java)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
@@ -25,7 +27,6 @@ Algorithm、Review、Tip、Share
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./week16/algo/lc1108/Solution.java)|Easy|
-|15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./week18/algo/lc15/Solution.java)|Medium|
 
 ## Review
 
@@ -49,6 +50,7 @@ Algorithm、Review、Tip、Share
 |week16|[如何给代码起有意义的名字](./week16/review/如何给代码起有意义的名字.md)|
 |week17|[Java中使用Apache_POI写入Excel文件](./week17/review/Java中使用Apache_POI写入Excel文件.md)|
 |week18|[Java_Stream_API实用指南](./week18/review/Java_Stream_API实用指南.md)|
+|week19|[动态库vs静态库的性能](./week19/review/动态库vs静态库的性能.md)|
 
 ## Tip
 
@@ -72,6 +74,7 @@ Algorithm、Review、Tip、Share
 |week16|[根据映射关系修改Map中的key](./week16/tip/根据映射关系修改Map中的key.md)|
 |week17|[ideavim按行替换字符](./week17/tip/ideavim按行替换字符.md)|
 |week18|[视频下载工具YouTube-DL](./week18/tip/视频下载工具YouTube-DL.md)|
+|week19|[vs2010条件断点](./week19/tip/vs2010条件断点.md)|
 
 ## Share
 
