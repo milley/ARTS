@@ -98,3 +98,4 @@ Algorithm、Review、Tip、Share
 |week16|[使用递归计算平方根](./week16/share/使用递归计算平方根.md)|
 |week17|[Java中比较HashMap](./week17/share/Java中比较HashMap.md)|
 |week18|[使用动态规划解决0-1背包问题](./week18/share/使用动态规划解决0-1背包问题.md)|
+|week19|[用enum代替int常量](./week19/share/用enum代替int常量.md)|
