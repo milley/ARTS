@@ -13,6 +13,7 @@ Algorithm、Review、Tip、Share
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](./week19/algo/lc18/Solution.java)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./week20/algo/lc98/Solution.java)|Medium|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./week12/algo/lc101/Solution.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./week10/algo/lc226/Solution.java)|Easy|
@@ -51,6 +52,7 @@ Algorithm、Review、Tip、Share
 |week17|[Java中使用Apache_POI写入Excel文件](./week17/review/Java中使用Apache_POI写入Excel文件.md)|
 |week18|[Java_Stream_API实用指南](./week18/review/Java_Stream_API实用指南.md)|
 |week19|[动态库vs静态库的性能](./week19/review/动态库vs静态库的性能.md)|
+|week20|[Python在Netflix](./week20/review/Python在Netflix.md)|
 
 ## Tip
 
@@ -75,6 +77,7 @@ Algorithm、Review、Tip、Share
 |week17|[ideavim按行替换字符](./week17/tip/ideavim按行替换字符.md)|
 |week18|[视频下载工具YouTube-DL](./week18/tip/视频下载工具YouTube-DL.md)|
 |week19|[vs2010条件断点](./week19/tip/vs2010条件断点.md)|
+|week20|[使用guava的Jointer和Spliter来处理字符串](./week20/tip/使用guava的Jointer和Spliter来处理字符串.md)|
 
 ## Share
 
@@ -99,3 +102,4 @@ Algorithm、Review、Tip、Share
 |week17|[Java中比较HashMap](./week17/share/Java中比较HashMap.md)|
 |week18|[使用动态规划解决0-1背包问题](./week18/share/使用动态规划解决0-1背包问题.md)|
 |week19|[用enum代替int常量](./week19/share/用enum代替int常量.md)|
+|week20|[如何阅读源码](./week20/share/如何阅读源码.md)|
