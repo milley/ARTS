@@ -13,6 +13,7 @@ Algorithm、Review、Tip、Share
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](./week19/algo/lc18/Solution.java)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./week21/algo/lc66/Solution.java)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./week20/algo/lc98/Solution.java)|Medium|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./week12/algo/lc101/Solution.java)|Easy|
