@@ -54,6 +54,7 @@ Algorithm、Review、Tip、Share
 |week18|[Java_Stream_API实用指南](./week18/review/Java_Stream_API实用指南.md)|
 |week19|[动态库vs静态库的性能](./week19/review/动态库vs静态库的性能.md)|
 |week20|[Python在Netflix](./week20/review/Python在Netflix.md)|
+|week21|[为什么你应该使用pathlib](./week21/review/为什么你应该使用pathlib.md)|
 
 ## Tip
 
@@ -79,6 +80,7 @@ Algorithm、Review、Tip、Share
 |week18|[视频下载工具YouTube-DL](./week18/tip/视频下载工具YouTube-DL.md)|
 |week19|[vs2010条件断点](./week19/tip/vs2010条件断点.md)|
 |week20|[使用guava的Jointer和Spliter来处理字符串](./week20/tip/使用guava的Jointer和Spliter来处理字符串.md)|
+|week21|[SuperTinyIcons图标库](./week21/tip/SuperTinyIcons图标库.md)|
 
 ## Share
 
@@ -104,3 +106,4 @@ Algorithm、Review、Tip、Share
 |week18|[使用动态规划解决0-1背包问题](./week18/share/使用动态规划解决0-1背包问题.md)|
 |week19|[用enum代替int常量](./week19/share/用enum代替int常量.md)|
 |week20|[如何阅读源码](./week20/share/如何阅读源码.md)|
+|week21|[慎用重载](./week21/share/慎用重载.md)|
