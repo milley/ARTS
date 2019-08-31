@@ -20,6 +20,8 @@ Algorithm、Review、Tip、Share
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./week10/algo/lc226/Solution.java)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Java](./week22/algo/lc235/Solution.java)|Easy|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Java](./week22/algo/lc236/Solution.java)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](./week15/algo/lc239/Solution.java)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./week17/algo/lc242/Solution.java)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./week11/algo/lc257/Solution.java)|Easy|
@@ -55,6 +57,7 @@ Algorithm、Review、Tip、Share
 |week19|[动态库vs静态库的性能](./week19/review/动态库vs静态库的性能.md)|
 |week20|[Python在Netflix](./week20/review/Python在Netflix.md)|
 |week21|[为什么你应该使用pathlib](./week21/review/为什么你应该使用pathlib.md)|
+|week22|[DevOps干什么.md](./week22/review/DevOps干什么.md)|
 
 ## Tip
 
@@ -81,6 +84,7 @@ Algorithm、Review、Tip、Share
 |week19|[vs2010条件断点](./week19/tip/vs2010条件断点.md)|
 |week20|[使用guava的Jointer和Spliter来处理字符串](./week20/tip/使用guava的Jointer和Spliter来处理字符串.md)|
 |week21|[SuperTinyIcons图标库](./week21/tip/SuperTinyIcons图标库.md)|
+|week22|[Git飞行规则](./week22/tip/Git飞行规则.md)|
 
 ## Share
 
