@@ -12,6 +12,7 @@ Algorithm、Review、Tip、Share
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./week18/algo/lc15/Solution.java)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](./week19/algo/lc18/Solution.java)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./week23/algo/lc50/Solution.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./week21/algo/lc66/Solution.java)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./week20/algo/lc98/Solution.java)|Medium|
@@ -85,6 +86,7 @@ Algorithm、Review、Tip、Share
 |week20|[使用guava的Jointer和Spliter来处理字符串](./week20/tip/使用guava的Jointer和Spliter来处理字符串.md)|
 |week21|[SuperTinyIcons图标库](./week21/tip/SuperTinyIcons图标库.md)|
 |week22|[Git飞行规则](./week22/tip/Git飞行规则.md)|
+|week23|[__cdecl解释](./week23/tip/__cdecl解释.md)|
 
 ## Share
 
@@ -112,3 +114,4 @@ Algorithm、Review、Tip、Share
 |week20|[如何阅读源码](./week20/share/如何阅读源码.md)|
 |week21|[慎用重载](./week21/share/慎用重载.md)|
 |week22|[Windows网络编程](./week22/share/Windows网络编程.md)|
+|week23|[返回零长度的数组或者集合，而不是null](./week23/share/返回零长度的数组或者集合，而不是null.md)|
