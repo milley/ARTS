@@ -59,6 +59,7 @@ Algorithm、Review、Tip、Share
 |week20|[Python在Netflix](./week20/review/Python在Netflix.md)|
 |week21|[为什么你应该使用pathlib](./week21/review/为什么你应该使用pathlib.md)|
 |week22|[DevOps干什么.md](./week22/review/DevOps干什么.md)|
+|week23|[apt和apt-get的不同解释](./week23/review/apt和apt-get的不同解释.md)|
 
 ## Tip
 
