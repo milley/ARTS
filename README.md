@@ -33,6 +33,7 @@ Algorithm、Review、Tip、Share
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./week16/algo/lc1108/Solution.java)|Easy|
+|1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Java](./week24/algo/lc1154/Solution.java)|Easy|
 
 ## Review
 
