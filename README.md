@@ -18,6 +18,7 @@ Algorithm、Review、Tip、Share
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./week20/algo/lc98/Solution.java)|Medium|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./week12/algo/lc101/Solution.java)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./week24/algo/lc169/Solution.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./week10/algo/lc226/Solution.java)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
