@@ -18,7 +18,7 @@ Algorithm、Review、Tip、Share
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./week20/algo/lc98/Solution.java)|Medium|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./week12/algo/lc101/Solution.java)|Easy|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./week24/algo/lc169/Solution.java)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./sseseek24/algo/lc169/Solution.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./week10/algo/lc226/Solution.java)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
@@ -62,6 +62,7 @@ Algorithm、Review、Tip、Share
 |week21|[为什么你应该使用pathlib](./week21/review/为什么你应该使用pathlib.md)|
 |week22|[DevOps干什么.md](./week22/review/DevOps干什么.md)|
 |week23|[apt和apt-get的不同解释](./week23/review/apt和apt-get的不同解释.md)|
+|week24|[如何开始机器学习](./week24/review/如何开始机器学习.md)|
 
 ## Tip
 
@@ -90,6 +91,7 @@ Algorithm、Review、Tip、Share
 |week21|[SuperTinyIcons图标库](./week21/tip/SuperTinyIcons图标库.md)|
 |week22|[Git飞行规则](./week22/tip/Git飞行规则.md)|
 |week23|[__cdecl解释](./week23/tip/__cdecl解释.md)|
+|week24|[谷歌工程实践文档](./week24/tip/谷歌工程实践文档.md)|
 
 ## Share
 
