@@ -120,3 +120,4 @@ Algorithm、Review、Tip、Share
 |week21|[慎用重载](./week21/share/慎用重载.md)|
 |week22|[Windows网络编程](./week22/share/Windows网络编程.md)|
 |week23|[返回零长度的数组或者集合，而不是null](./week23/share/返回零长度的数组或者集合，而不是null.md)|
+|week24|[MFC创建一个简单的聊天程序](./week24/share/MFC创建一个简单的聊天程序.md)|
