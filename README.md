@@ -64,6 +64,7 @@ Algorithm、Review、Tip、Share
 |week22|[DevOps干什么.md](./week22/review/DevOps干什么.md)|
 |week23|[apt和apt-get的不同解释](./week23/review/apt和apt-get的不同解释.md)|
 |week24|[如何开始机器学习](./week24/review/如何开始机器学习.md)|
+|week25|[C++中的Tree-Set数据结构](./week25/review/C++中的Tree-Set数据结构.md)|
 
 ## Tip
 
@@ -93,6 +94,7 @@ Algorithm、Review、Tip、Share
 |week22|[Git飞行规则](./week22/tip/Git飞行规则.md)|
 |week23|[__cdecl解释](./week23/tip/__cdecl解释.md)|
 |week24|[谷歌工程实践文档](./week24/tip/谷歌工程实践文档.md)|
+|week25|[adb基本操作](./week25/tip/adb基本操作.md)|
 
 ## Share
 
@@ -122,3 +124,4 @@ Algorithm、Review、Tip、Share
 |week22|[Windows网络编程](./week22/share/Windows网络编程.md)|
 |week23|[返回零长度的数组或者集合，而不是null](./week23/share/返回零长度的数组或者集合，而不是null.md)|
 |week24|[MFC创建一个简单的聊天程序](./week24/share/MFC创建一个简单的聊天程序.md)|
+|week25|[Windows进程间通信](./week25/share/Windows进程间通信.md)|
