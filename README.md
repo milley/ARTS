@@ -95,6 +95,7 @@ Algorithm、Review、Tip、Share
 |week23|[__cdecl解释](./week23/tip/__cdecl解释.md)|
 |week24|[谷歌工程实践文档](./week24/tip/谷歌工程实践文档.md)|
 |week25|[adb基本操作](./week25/tip/adb基本操作.md)|
+|week26|[使用pathlib批量修改文件](./week26/tip/使用pathlib批量修改文件.md)|
 
 ## Share
 
