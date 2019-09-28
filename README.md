@@ -32,6 +32,7 @@ Algorithm、Review、Tip、Share
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[C++](./week26/algo/lc860/Solution.cpp)|Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./week16/algo/lc1108/Solution.java)|Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Java](./week24/algo/lc1154/Solution.java)|Easy|
@@ -65,6 +66,7 @@ Algorithm、Review、Tip、Share
 |week23|[apt和apt-get的不同解释](./week23/review/apt和apt-get的不同解释.md)|
 |week24|[如何开始机器学习](./week24/review/如何开始机器学习.md)|
 |week25|[C++中的Tree-Set数据结构](./week25/review/C++中的Tree-Set数据结构.md)|
+|week26|[如何检查一个对象是否已经插入到Map中](./week26/review/如何检查一个对象是否已经插入到Map中.md)|
 
 ## Tip
 
@@ -126,3 +128,4 @@ Algorithm、Review、Tip、Share
 |week23|[返回零长度的数组或者集合，而不是null](./week23/share/返回零长度的数组或者集合，而不是null.md)|
 |week24|[MFC创建一个简单的聊天程序](./week24/share/MFC创建一个简单的聊天程序.md)|
 |week25|[Windows进程间通信](./week25/share/Windows进程间通信.md)|
+|week26|[Windows动态链接库](./week26/share/Windows动态链接库.md)|
