@@ -16,6 +16,8 @@ Algorithm、Review、Tip、Share
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./week21/algo/lc66/Solution.java)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./week20/algo/lc98/Solution.java)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./week27/algo/lc104/Solution.java)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./week27/algo/lc111/Solution.java)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./week25/algo/lc122/Solution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./week12/algo/lc101/Solution.java)|Easy|
@@ -129,3 +131,4 @@ Algorithm、Review、Tip、Share
 |week24|[MFC创建一个简单的聊天程序](./week24/share/MFC创建一个简单的聊天程序.md)|
 |week25|[Windows进程间通信](./week25/share/Windows进程间通信.md)|
 |week26|[Windows动态链接库](./week26/share/Windows动态链接库.md)|
+|week27|[Windows中的HOOK](./week27/share/Windows中的HOOK.md)|
