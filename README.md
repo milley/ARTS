@@ -69,6 +69,7 @@ Algorithm、Review、Tip、Share
 |week24|[如何开始机器学习](./week24/review/如何开始机器学习.md)|
 |week25|[C++中的Tree-Set数据结构](./week25/review/C++中的Tree-Set数据结构.md)|
 |week26|[如何检查一个对象是否已经插入到Map中](./week26/review/如何检查一个对象是否已经插入到Map中.md)|
+|week27|[类对比数据结构](./week27/review/类对比数据结构.md)|
 
 ## Tip
 
