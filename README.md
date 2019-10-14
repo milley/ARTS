@@ -103,6 +103,7 @@ Algorithm、Review、Tip、Share
 |week25|[adb基本操作](./week25/tip/adb基本操作.md)|
 |week26|[使用pathlib批量修改文件](./week26/tip/使用pathlib批量修改文件.md)|
 |week27|[ES6开源书籍](./week27/tip/ES6开源书籍.md)|
+|week28|[Chrome暗黑模式插件](./week28/tip/Chrome暗黑模式插件.md)|
 
 ## Share
 
@@ -135,3 +136,4 @@ Algorithm、Review、Tip、Share
 |week25|[Windows进程间通信](./week25/share/Windows进程间通信.md)|
 |week26|[Windows动态链接库](./week26/share/Windows动态链接库.md)|
 |week27|[Windows中的HOOK](./week27/share/Windows中的HOOK.md)|
+|week28|[理解画图程序实战v26](./week28/share/理解画图程序实战v26.md)|
