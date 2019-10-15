@@ -71,6 +71,7 @@ Algorithm、Review、Tip、Share
 |week25|[C++中的Tree-Set数据结构](./week25/review/C++中的Tree-Set数据结构.md)|
 |week26|[如何检查一个对象是否已经插入到Map中](./week26/review/如何检查一个对象是否已经插入到Map中.md)|
 |week27|[类对比数据结构](./week27/review/类对比数据结构.md)|
+|week28|[长密钥ID碰撞](./week28/review/长密钥ID碰撞.md)|
 
 ## Tip
 
