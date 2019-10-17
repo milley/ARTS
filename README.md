@@ -11,6 +11,7 @@ Algorithm、Review、Tip、Share
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./week01/algo/lc13/Solution.java),[C++](./week01/algo/lc13/Solution.cpp)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./week18/algo/lc15/Solution.java)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](./week19/algo/lc18/Solution.java)|Medium|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./week29/algo/lc22/Solution.java)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./week23/algo/lc50/Solution.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
