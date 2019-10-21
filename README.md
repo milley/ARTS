@@ -73,6 +73,7 @@ Algorithm、Review、Tip、Share
 |week26|[如何检查一个对象是否已经插入到Map中](./week26/review/如何检查一个对象是否已经插入到Map中.md)|
 |week27|[类对比数据结构](./week27/review/类对比数据结构.md)|
 |week28|[长密钥ID碰撞](./week28/review/长密钥ID碰撞.md)|
+|week29|[类型和测试](./week29/review/类型和测试.md)|
 
 ## Tip
 
@@ -106,6 +107,7 @@ Algorithm、Review、Tip、Share
 |week26|[使用pathlib批量修改文件](./week26/tip/使用pathlib批量修改文件.md)|
 |week27|[ES6开源书籍](./week27/tip/ES6开源书籍.md)|
 |week28|[Chrome暗黑模式插件](./week28/tip/Chrome暗黑模式插件.md)|
+|week29|[在线流程图工具](./week29/tip/在线流程图工具.md)|
 
 ## Share
 
@@ -139,3 +141,4 @@ Algorithm、Review、Tip、Share
 |week26|[Windows动态链接库](./week26/share/Windows动态链接库.md)|
 |week27|[Windows中的HOOK](./week27/share/Windows中的HOOK.md)|
 |week28|[理解画图程序实战v26](./week28/share/理解画图程序实战v26.md)|
+|week29|[理解画图程序实战v27](./week29/share/理解画图程序实战v27.md)|
