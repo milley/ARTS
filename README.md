@@ -74,6 +74,7 @@ Algorithm、Review、Tip、Share
 |week27|[类对比数据结构](./week27/review/类对比数据结构.md)|
 |week28|[长密钥ID碰撞](./week28/review/长密钥ID碰撞.md)|
 |week29|[类型和测试](./week29/review/类型和测试.md)|
+|week30|[通过吃破碎玻璃来理解Java中泛型转换](./week30/review/通过吃破碎玻璃来理解Java中泛型转换.md)|
 
 ## Tip
 
@@ -108,6 +109,7 @@ Algorithm、Review、Tip、Share
 |week27|[ES6开源书籍](./week27/tip/ES6开源书籍.md)|
 |week28|[Chrome暗黑模式插件](./week28/tip/Chrome暗黑模式插件.md)|
 |week29|[在线流程图工具](./week29/tip/在线流程图工具.md)|
+|week30|[ES5中的严格模式](./week30/tip/ES5中的严格模式.md)|
 
 ## Share
 
