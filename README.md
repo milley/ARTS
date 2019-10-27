@@ -14,7 +14,7 @@ Algorithm、Review、Tip、Share
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./week29/algo/lc22/Solution.java)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./week23/algo/lc50/Solution.java)|Medium|
-|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Python](./week30/algo/lc51/Solution.py)|Hard|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./week30/algo/lc51/Solution.java),[Python](./week30/algo/lc51/Solution.py)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./week21/algo/lc66/Solution.java)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./week28/algo/lc70/Solution.java),[Python](./week28/algo/lc70/Solution.py)|Easy|
