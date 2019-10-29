@@ -147,3 +147,4 @@ Algorithm、Review、Tip、Share
 |week28|[理解画图程序实战v26](./week28/share/理解画图程序实战v26.md)|
 |week29|[理解画图程序实战v27](./week29/share/理解画图程序实战v27.md)|
 |week30|[理解画图程序实战v28](./week30/share/理解画图程序实战v28.md)|
+|week31|[理解画图程序实战v29](./week31/share/理解画图程序实战v29.md)|
