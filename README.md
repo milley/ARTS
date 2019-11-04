@@ -113,7 +113,7 @@ Algorithm、Review、Tip、Share
 |week28|[Chrome暗黑模式插件](./week28/tip/Chrome暗黑模式插件.md)|
 |week29|[在线流程图工具](./week29/tip/在线流程图工具.md)|
 |week30|[ES5中的严格模式](./week30/tip/ES5中的严格模式.md)|
-|week31|[visual&nbsp;studio&nbsp;debug错行](./week30/tip/visual&nbsp;studio&nbsp;debug错行.md)|
+|week31|[visual&nbsp;studio&nbsp;debug错行](./week30/tip/visual studio debug错行.md)|
 
 ## Share
 
