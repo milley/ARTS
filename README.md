@@ -77,6 +77,7 @@ Algorithm、Review、Tip、Share
 |week28|[长密钥ID碰撞](./week28/review/长密钥ID碰撞.md)|
 |week29|[类型和测试](./week29/review/类型和测试.md)|
 |week30|[通过吃破碎玻璃来理解Java中泛型转换](./week30/review/通过吃破碎玻璃来理解Java中泛型转换.md)|
+|week31|[如何创建一个基于CMake的项目](./week31/review/如何创建一个基于CMake的项目.md)|
 
 ## Tip
 
@@ -112,6 +113,7 @@ Algorithm、Review、Tip、Share
 |week28|[Chrome暗黑模式插件](./week28/tip/Chrome暗黑模式插件.md)|
 |week29|[在线流程图工具](./week29/tip/在线流程图工具.md)|
 |week30|[ES5中的严格模式](./week30/tip/ES5中的严格模式.md)|
+|week31|[<visual studio debug错行>](./week30/tip/<visual studio debug错行.md>)|
 
 ## Share
 
