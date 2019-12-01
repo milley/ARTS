@@ -12,6 +12,7 @@ Algorithm、Review、Tip、Share
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./week18/algo/lc15/Solution.java)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](./week19/algo/lc18/Solution.java)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./week29/algo/lc22/Solution.java)|Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./week33/algo/lc36/Solution.java)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](./week32/algo/lc37/Solution.java),[C++](./week32/algo/lc37/Solution.cpp)|Hard|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./week23/algo/lc50/Solution.java)|Medium|
