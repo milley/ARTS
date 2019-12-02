@@ -81,6 +81,7 @@ Algorithm、Review、Tip、Share
 |week30|[通过吃破碎玻璃来理解Java中泛型转换](./week30/review/通过吃破碎玻璃来理解Java中泛型转换.md)|
 |week31|[如何创建一个基于CMake的项目](./week31/review/如何创建一个基于CMake的项目.md)|
 |week32|[Java8并发操作可没有它看起来那么简单](./week32/review/Java8并发操作可没有它看起来那么简单.md)|
+|week33|[C++中的虚基类](./week33/review/C++中的虚基类.md)|
 
 ## Tip
 
@@ -118,6 +119,7 @@ Algorithm、Review、Tip、Share
 |week30|[ES5中的严格模式](./week30/tip/ES5中的严格模式.md)|
 |week31|[VisualStudio-debug错行](./week31/tip/VisualStudio-debug错行.md)|
 |week32|[golang中type类型定义](./week32/tip/golang中type类型定义.md)|
+|week33|[github search](./week33/tip/github-search.md)|
 
 ## Share
 
@@ -155,3 +157,4 @@ Algorithm、Review、Tip、Share
 |week30|[理解画图程序实战v28](./week30/share/理解画图程序实战v28.md)|
 |week31|[理解画图程序实战v29](./week31/share/理解画图程序实战v29.md)|
 |week32|[理解画图程序实战v30](./week32/share/理解画图程序实战v30.md)|
+|week33|[实现简单的控制台聊天室v0.1](./week33/share/实现简单的控制台聊天室v0.1.md)|
