@@ -123,6 +123,7 @@ Algorithm、Review、Tip、Share
 |week32|[golang中type类型定义](./week32/tip/golang中type类型定义.md)|
 |week33|[github search](./week33/tip/github-search.md)|
 |week34|[FileZilla远程路径中文显示乱码](./week34/tip/FileZilla远程路径中文显示乱码.md)|
+|week35|[MFC自动化测试](./week35/tip/MFC自动化测试.md)|
 
 ## Share
 
