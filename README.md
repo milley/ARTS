@@ -21,6 +21,7 @@ Algorithm、Review、Tip、Share
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./week21/algo/lc66/Solution.java)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./week28/algo/lc70/Solution.java),[Python](./week28/algo/lc70/Solution.py)|Easy|
+|79|[Word Search](https://leetcode.com/problems/word-search/)|[Java](./week35/algo/lc79/Solution.java)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./week20/algo/lc98/Solution.java)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./week12/algo/lc101/Solution.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./week27/algo/lc104/Solution.java)|Easy|
