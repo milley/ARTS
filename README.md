@@ -30,6 +30,7 @@ Algorithm、Review、Tip、Share
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./sseseek24/algo/lc169/Solution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./week34/algo/lc208/Trie.java)|Medium|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](./week35/algo/lc212/Solution.java),[Python](./week35/algo/lc212/Solution.py)|Hard|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./week10/algo/lc226/Solution.java)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
