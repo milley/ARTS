@@ -165,3 +165,4 @@ Algorithm、Review、Tip、Share
 |week32|[理解画图程序实战v30](./week32/share/理解画图程序实战v30.md)|
 |week33|[实现简单的控制台聊天室v1](./week33/share/实现简单的控制台聊天室v1.md)|
 |week34|[实现简单的控制台聊天室v2](./week34/share/实现简单的控制台聊天室v2.md)|
+|week35|[Java中的单例](./week35/share/Java中的单例.md)|
