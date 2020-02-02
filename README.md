@@ -29,16 +29,19 @@ Algorithm、Review、Tip、Share
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./week25/algo/lc122/Solution.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./sseseek24/algo/lc169/Solution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./week36/algo/lc191/Solution.java)|Easy|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./week34/algo/lc208/Trie.java)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](./week35/algo/lc212/Solution.java),[Python](./week35/algo/lc212/Solution.py)|Hard|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./week10/algo/lc226/Solution.java)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](./week36/algo/lc231/Solution.java)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Java](./week22/algo/lc235/Solution.java)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Java](./week22/algo/lc236/Solution.java)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](./week15/algo/lc239/Solution.java)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./week17/algo/lc242/Solution.java)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./week11/algo/lc257/Solution.java)|Easy|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./week36/algo/lc338/Solution.java)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/duplicate-emails/https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
