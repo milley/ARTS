@@ -131,6 +131,7 @@ Algorithm、Review、Tip、Share
 |week34|[FileZilla远程路径中文显示乱码](./week34/tip/FileZilla远程路径中文显示乱码.md)|
 |week35|[MFC自动化测试](./week35/tip/MFC自动化测试.md)|
 |week36|[vscode设置垂直线](./week36/tip/vscode设置垂直线.md)|
+|week37|[开源跨平台绘图工具yEd](./week37/tip/开源跨平台绘图工具yEd.md)|
 
 ## Share
 
