@@ -90,7 +90,8 @@ Algorithm、Review、Tip、Share
 |week32|[Java8并发操作可没有它看起来那么简单](./week32/review/Java8并发操作可没有它看起来那么简单.md)|
 |week33|[C++中的虚基类](./week33/review/C++中的虚基类.md)|
 |week34|[Java传值和传引用](./week34/review/Java传值和传引用.md)|
-|week35|[Linux中可清除的内存分配](./week35/review/Linux中可清除的内存分配.md)
+|week35|[Linux中可清除的内存分配](./week35/review/Linux中可清除的内存分配.md)|
+|week36|[Go和Services等于一个巨大的项目](./week36/review/Go和Services等于一个巨大的项目.md)|
 
 ## Tip
 
