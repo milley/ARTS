@@ -175,3 +175,4 @@ Algorithm、Review、Tip、Share
 |week34|[实现简单的控制台聊天室v2](./week34/share/实现简单的控制台聊天室v2.md)|
 |week35|[Java中的单例](./week35/share/Java中的单例.md)|
 |week36|[位运算](./week36/share/位运算.md)|
+|week37|[int转换float再转换回int](./week37/share/int转换float再转换回int.md)|
