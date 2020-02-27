@@ -177,3 +177,4 @@ Algorithm、Review、Tip、Share
 |week35|[Java中的单例](./week35/share/Java中的单例.md)|
 |week36|[位运算](./week36/share/位运算.md)|
 |week37|[int转换float再转换回int](./week37/share/int转换float再转换回int.md)|
+|week38|[理解C++中的虚函数和多态](./week38/share/理解C++中的虚函数和多态.md)|
