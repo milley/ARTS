@@ -28,6 +28,7 @@ Algorithm、Review、Tip、Share
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./week27/algo/lc111/Solution.java)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Java](./week37/algo/lc120/Solution.java)|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./week25/algo/lc122/Solution.java)|Easy|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./week38/algo/lc152/Solution.java),[Python](./week38/algo/lc152/Solution.py)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./week24/algo/lc169/Solution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./week36/algo/lc191/Solution.java)|Easy|
