@@ -94,6 +94,7 @@ Algorithm、Review、Tip、Share
 |week35|[Linux中可清除的内存分配](./week35/review/Linux中可清除的内存分配.md)|
 |week36|[Go和Services等于一个巨大的项目](./week36/review/Go和Services等于一个巨大的项目.md)|
 |week37|[编写一个C程序来判断底层结构是大端还是小端](./week37/review/编写一个C程序来判断底层结构是大端还是小端.md)|
+|week38|[击败垃圾留言机器人](./week38/review/击败垃圾留言机器人.md)|
 
 ## Tip
 
