@@ -139,6 +139,7 @@ Algorithm、Review、Tip、Share
 |week36|[vscode设置垂直线](./week36/tip/vscode设置垂直线.md)|
 |week37|[开源跨平台绘图工具yEd](./week37/tip/开源跨平台绘图工具yEd.md)|
 |week38|[VisualStudio宏展开](./week38/tip/VisualStudio宏展开.md)|
+|week39|[使用Python格式化html到excel](./week39/tip/使用Python格式化html到excel.md)|
 
 ## Share
 
