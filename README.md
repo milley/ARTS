@@ -140,6 +140,7 @@ Algorithm、Review、Tip、Share
 |week37|[开源跨平台绘图工具yEd](./week37/tip/开源跨平台绘图工具yEd.md)|
 |week38|[VisualStudio宏展开](./week38/tip/VisualStudio宏展开.md)|
 |week39|[使用Python格式化html到excel](./week39/tip/使用Python格式化html到excel.md)|
+|week40|[计算当前日期是第几周](./week40/tip/计算当前日期是第几周.md)|
 
 ## Share
 
