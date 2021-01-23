@@ -185,3 +185,4 @@ Algorithm、Review、Tip、Share
 |week37|[int转换float再转换回int](./week37/share/int转换float再转换回int.md)|
 |week38|[理解C++中的虚函数和多态](./week38/share/理解C++中的虚函数和多态.md)|
 |week39|[使用IDEA调试JDK源码](./week39/share/使用IDEA调试JDK源码.md)|
+|week40|[Duilib用xml画界面编译问题](./week40/share/Duilib用xml画界面编译问题.md)|
