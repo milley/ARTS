@@ -143,6 +143,7 @@ Algorithm、Review、Tip、Share
 |week39|[使用Python格式化html到excel](./week39/tip/使用Python格式化html到excel.md)|
 |week40|[计算当前日期是第几周](./week40/tip/计算当前日期是第几周.md)|
 |week41|[Windows10下ssh Bad owner or permissions的解决方案](./week41/tip/Windows10下ssh%20Bad%20owner%20or%20permissions的解决方案.md)|
+|week41|[ubuntu使用阿里云upgrade失败](./week41/tip/ubuntu使用阿里云upgrade失败.md)|
 
 ## Share
 
