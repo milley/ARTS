@@ -13,7 +13,7 @@
 ## 1. 打开终端(Ctrl+Alt+T)，从dash中搜索Terminal，运行命令
 
 ```cmd
-xrand
+xrandr
 ```
 
 它输出了所有当前分辨率和所有可选的分辨率。我需要得到我的设备id，这里是ePD-1。
