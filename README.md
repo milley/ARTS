@@ -97,6 +97,7 @@ Algorithm、Review、Tip、Share
 |week38|[击败垃圾留言机器人](./week38/review/击败垃圾留言机器人.md)|
 |week39|[什么是拷贝和转换](./week39/review/什么是拷贝和转换.md)|
 |week40|[如何在ubuntu设置自定义分辨率](./week40/review/如何在ubuntu设置自定义分辨率.md)|
+|week41|[为什么Golang是我最喜欢的编程语言](./week41/review/为什么Golang是我最喜欢的编程语言.md)|
 
 ## Tip
 
