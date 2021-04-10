@@ -148,6 +148,7 @@ Algorithm、Review、Tip、Share
 |week41|[Windows10下ssh Bad owner or permissions的解决方案](./week41/tip/Windows10下ssh%20Bad%20owner%20or%20permissions的解决方案.md)|
 |week41|[ubuntu使用阿里云upgrade失败](./week41/tip/ubuntu使用阿里云upgrade失败.md)|
 |week42|[解决Win10安装virtualbox中ubuntu桥接联网失败](./week42/tip/解决Win10安装virtualbox中ubuntu桥接联网失败.md)|
+|week43|[C++给定一个值中求数组元素最小差值](./week43/tip/C++给定一个值中求数组元素最小差值.md)|
 
 ## Share
 
