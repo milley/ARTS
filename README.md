@@ -196,3 +196,4 @@ Algorithm、Review、Tip、Share
 |week40|[Duilib用xml画界面编译问题](./week40/share/Duilib用xml画界面编译问题.md)|
 |week41|[virtualbox中NAT模式下Windows10访问ubuntu](./week41/share/virtualbox中NAT模式下Windows10访问ubuntu.md)|
 |week42|[Install boost in Ubuntu20](./week42/share/Install%20boost%20in%20Ubuntu20.md)|
+|week43|[windows重命名dll后重新生成lib](./week43/share/windows重命名dll后重新生成lib.md)|
