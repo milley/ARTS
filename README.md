@@ -33,6 +33,7 @@ Algorithm、Review、Tip、Share
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./week38/algo/lc152/Solution.java),[Python](./week38/algo/lc152/Solution.py)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./week24/algo/lc169/Solution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Java](./week41/algo/lc188/Solution.java)|Hard|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./week36/algo/lc191/Solution.java)|Easy|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./week34/algo/lc208/Trie.java)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](./week35/algo/lc212/Solution.java),[Python](./week35/algo/lc212/Solution.py)|Hard|
