@@ -103,6 +103,7 @@ Algorithm、Review、Tip、Share
 |week40|[如何在ubuntu设置自定义分辨率](./week40/review/如何在ubuntu设置自定义分辨率.md)|
 |week41|[为什么Golang是我最喜欢的编程语言](./week41/review/为什么Golang是我最喜欢的编程语言.md)|
 |week42|[什么是字符串哈希](./week42/review/什么是字符串哈希.md)|
+|week43|[为什么面向对象编程很糟糕](./week43/review/为什么面向对象编程很糟糕.md)|
 
 ## Tip
 
