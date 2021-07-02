@@ -104,6 +104,7 @@ Algorithm、Review、Tip、Share
 |week41|[为什么Golang是我最喜欢的编程语言](./week41/review/为什么Golang是我最喜欢的编程语言.md)|
 |week42|[什么是字符串哈希](./week42/review/什么是字符串哈希.md)|
 |week43|[为什么面向对象编程很糟糕](./week43/review/为什么面向对象编程很糟糕.md)|
+|week44|[PostgreSQL安装](./week44/review/PostgreSQL安装.md)|
 
 ## Tip
 
