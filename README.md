@@ -203,3 +203,4 @@ Algorithm、Review、Tip、Share
 |week41|[virtualbox中NAT模式下Windows10访问ubuntu](./week41/share/virtualbox中NAT模式下Windows10访问ubuntu.md)|
 |week42|[Install boost in Ubuntu20](./week42/share/Install%20boost%20in%20Ubuntu20.md)|
 |week43|[windows重命名dll后重新生成lib](./week43/share/windows重命名dll后重新生成lib.md)|
+|week44|[Rust通过DevSidecar请求github](./week44/share/Rust通过DevSidecar请求github.md)|
