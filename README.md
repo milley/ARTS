@@ -155,6 +155,7 @@ Algorithm、Review、Tip、Share
 |week42|[解决Win10安装virtualbox中ubuntu桥接联网失败](./week42/tip/解决Win10安装virtualbox中ubuntu桥接联网失败.md)|
 |week43|[C++给定一个值中求数组元素最小差值](./week43/tip/C++给定一个值中求数组元素最小差值.md)|
 |week44|[PostgreSQL基本操作](./week44/tip/PostgreSQL基本操作.md)|
+|week45|[whistle在本地代理url](./week45/tip/whistle在本地代理url.md)|
 
 ## Share
 
@@ -204,3 +205,4 @@ Algorithm、Review、Tip、Share
 |week42|[Install boost in Ubuntu20](./week42/share/Install%20boost%20in%20Ubuntu20.md)|
 |week43|[windows重命名dll后重新生成lib](./week43/share/windows重命名dll后重新生成lib.md)|
 |week44|[Rust通过DevSidecar请求github](./week44/share/Rust通过DevSidecar请求github.md)|
+|week45|[Rust创建文件上传下载服务](./week45/share/Rust创建文件上传下载服务.md)|
