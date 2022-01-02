@@ -108,6 +108,7 @@ Algorithm、Review、Tip、Share
 |week42|[什么是字符串哈希](./week42/review/什么是字符串哈希.md)|
 |week43|[为什么面向对象编程很糟糕](./week43/review/为什么面向对象编程很糟糕.md)|
 |week44|[PostgreSQL安装](./week44/review/PostgreSQL安装.md)|
+|week45|[我漂亮的Linux开发环境](./week45/review/我漂亮的Linux开发环境.md)|
 
 ## Tip
 
