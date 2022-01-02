@@ -53,6 +53,7 @@ Algorithm、Review、Tip、Share
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
+|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./week43/algo/lc714/Solution.java)|Medium|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[C++](./week26/algo/lc860/Solution.cpp)|Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./week16/algo/lc1108/Solution.java)|Easy|
