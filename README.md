@@ -48,6 +48,7 @@ Algorithm、Review、Tip、Share
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](./week15/algo/lc239/Solution.java)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./week17/algo/lc242/Solution.java)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./week11/algo/lc257/Solution.java)|Easy|
+|300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[Java](./week46/algo/lc300/Solution.java)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./week42/algo/lc309/Solution.java)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./week36/algo/lc338/Solution.java)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
