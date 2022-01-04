@@ -160,6 +160,7 @@ Algorithm、Review、Tip、Share
 |week43|[C++给定一个值中求数组元素最小差值](./week43/tip/C++给定一个值中求数组元素最小差值.md)|
 |week44|[PostgreSQL基本操作](./week44/tip/PostgreSQL基本操作.md)|
 |week45|[whistle在本地代理url](./week45/tip/whistle在本地代理url.md)|
+|week46|[使用hashcat来恢复密码](./week46/tip/使用hashcat来恢复密码.md)|
 
 ## Share
 
