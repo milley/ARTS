@@ -50,6 +50,7 @@ Algorithm、Review、Tip、Share
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./week11/algo/lc257/Solution.java)|Easy|
 |300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[Java](./week46/algo/lc300/Solution.java)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./week42/algo/lc309/Solution.java)|Medium|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./week47/algo/lc322/Solution.java)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./week36/algo/lc338/Solution.java)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
