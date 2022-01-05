@@ -163,6 +163,7 @@ Algorithm、Review、Tip、Share
 |week44|[PostgreSQL基本操作](./week44/tip/PostgreSQL基本操作.md)|
 |week45|[whistle在本地代理url](./week45/tip/whistle在本地代理url.md)|
 |week46|[使用hashcat来恢复密码](./week46/tip/使用hashcat来恢复密码.md)|
+|week47|[Nona搜索引擎](./week47/tip/Nona搜索引擎.md)|
 
 ## Share
 
