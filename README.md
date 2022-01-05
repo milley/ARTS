@@ -111,6 +111,7 @@ Algorithm、Review、Tip、Share
 |week43|[为什么面向对象编程很糟糕](./week43/review/为什么面向对象编程很糟糕.md)|
 |week44|[PostgreSQL安装](./week44/review/PostgreSQL安装.md)|
 |week45|[我漂亮的Linux开发环境](./week45/review/我漂亮的Linux开发环境.md)|
+|week46|[Rust数据结构中的循环引用](./week46/review/Rust数据结构中的循环引用.md)|
 
 ## Tip
 
