@@ -215,3 +215,4 @@ Algorithm、Review、Tip、Share
 |week43|[windows重命名dll后重新生成lib](./week43/share/windows重命名dll后重新生成lib.md)|
 |week44|[Rust通过DevSidecar请求github](./week44/share/Rust通过DevSidecar请求github.md)|
 |week45|[Rust创建文件上传下载服务](./week45/share/Rust创建文件上传下载服务.md)|
+|week46|[C++中的职责链设计模式](./week46/share/C++中的职责链设计模式.md)|
