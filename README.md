@@ -217,3 +217,4 @@ Algorithm、Review、Tip、Share
 |week45|[Rust创建文件上传下载服务](./week45/share/Rust创建文件上传下载服务.md)|
 |week46|[C++中的职责链设计模式](./week46/share/C++中的职责链设计模式.md)|
 |week47|[Rust中错误类型Result](./week47/share/Rust中错误类型Result.md)|
+|week48|[Rustlings中Generic3练习](./week48/share/Rustlings中Generic3练习.md)|
