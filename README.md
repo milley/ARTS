@@ -167,6 +167,7 @@ Algorithm、Review、Tip、Share
 |week46|[使用hashcat来恢复密码](./week46/tip/使用hashcat来恢复密码.md)|
 |week47|[Nona搜索引擎](./week47/tip/Nona搜索引擎.md)|
 |week48|[Rust中通过迭代器修改字符串切片首字母大小写](./week48/tip/Rust中通过迭代器修改字符串切片首字母大小写.md)|
+|week49|[Mac中根除(.DS_Store)提交到git](./week49/tip/Mac中根除(.DS_Store)提交到git.md)|
 
 ## Share
 
