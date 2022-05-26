@@ -13,6 +13,7 @@ Algorithm、Review、Tip、Share
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./week18/algo/lc15/Solution.java)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](./week19/algo/lc18/Solution.java)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./week29/algo/lc22/Solution.java)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)|[Python](./week48/algo/lc26/Solution.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./week33/algo/lc36/Solution.java)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](./week32/algo/lc37/Solution.java),[C++](./week32/algo/lc37/Solution.cpp)|Hard|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
@@ -23,6 +24,7 @@ Algorithm、Review、Tip、Share
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./week21/algo/lc66/Solution.java)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./week28/algo/lc70/Solution.java),[Python](./week28/algo/lc70/Solution.py)|Easy|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Java](./week35/algo/lc79/Solution.java)|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/)|[Python](./week48/algo/lc80/Solution.py)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./week20/algo/lc98/Solution.java)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./week12/algo/lc101/Solution.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./week27/algo/lc104/Solution.java)|Easy|
