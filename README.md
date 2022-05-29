@@ -27,6 +27,7 @@ Algorithm、Review、Tip、Share
 |75|[Sort Colors](https://leetcode.cn/problems/sort-colors/)|[Python](./week50/algo/lc75/Solution.py)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Java](./week35/algo/lc79/Solution.java)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/)|[Python](./week48/algo/lc80/Solution.py)|Medium|
+|88|[Merge Sorted Array](https://leetcode.cn/problems/merge-sorted-array/)|[Python](./week50/algo/lc88/Solution.py)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./week20/algo/lc98/Solution.java)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./week12/algo/lc101/Solution.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./week27/algo/lc104/Solution.java)|Easy|
