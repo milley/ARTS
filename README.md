@@ -8,6 +8,7 @@ Algorithm、Review、Tip、Share
 |---| ----- | -------- | ---------- |
 |2|[Add Tow Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./week03/algo/lc2/AddTwoNumbers.java)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./week07/algo/lc7/Solution.java)|Easy|
+|11|[Container With Most Water](https://leetcode.cn/problems/container-with-most-water/)|[Python](./week51/algo/lc11/Solution.py)|Medium|
 |12|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/)|[Java](./week44/algo/Solution.java)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./week01/algo/lc13/Solution.java),[C++](./week01/algo/lc13/Solution.cpp)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./week18/algo/lc15/Solution.java)|Medium|
@@ -36,12 +37,15 @@ Algorithm、Review、Tip、Share
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./week39/algo/lc121/Solution.java)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./week25/algo/lc122/Solution.java)|Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./week40/algo/lc123/Solution.java)|Hard|
+|125|[Valid Palindrome](https://leetcode.cn/problems/valid-palindrome/)|[Python](./week51/algo/lc125/Solution.py)|Easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./week38/algo/lc152/Solution.java),[Python](./week38/algo/lc152/Solution.py)|Medium|
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)|[Python](./week51/algo/lc167/Solution.py)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./week24/algo/lc169/Solution.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./week01/algo/lc182/leetcode182.sql)|Easy|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Java](./week41/algo/lc188/Solution.java)|Hard|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./week36/algo/lc191/Solution.java)|Easy|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./week34/algo/lc208/Trie.java)|Medium|
+|209|[Minimum Size Subarray Sum](https://leetcode.cn/problems/minimum-size-subarray-sum/)|[Python](./week51/algo/lc209/Solution.py)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](./week35/algo/lc212/Solution.java),[Python](./week35/algo/lc212/Solution.py)|Hard|
 |215|[Kth Largest Element in an Array](https://leetcode.cn/problems/kth-largest-element-in-an-array/)|[Python](./week50/algo/lc215/Solution.py)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/)|[Java](./week45/algo/lc222/Solution.java)|Medium|
@@ -59,6 +63,7 @@ Algorithm、Review、Tip、Share
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./week42/algo/lc309/Solution.java)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./week47/algo/lc322/Solution.java)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./week36/algo/lc338/Solution.java)|Medium|
+|345|[Reverse Vowels of a String](https://leetcode.cn/problems/reverse-vowels-of-a-string/)|[Python](./week51/algo/lc345/Solution.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
