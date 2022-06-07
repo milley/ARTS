@@ -182,6 +182,7 @@ Algorithm、Review、Tip、Share
 |week48|[Rust中通过迭代器修改字符串切片首字母大小写](./week48/tip/Rust中通过迭代器修改字符串切片首字母大小写.md)|
 |week49|[Mac中根除(.DS_Store)提交到git](./week49/tip/Mac中根除(.DS_Store)提交到git.md)|
 |week50|[npm的替代品pnpm](./week50/tip/npm的替代品pnpm.md)|
+|week51|[RustCoreutils](./week51/tip/RustCoreutils.md)|
 
 ## Share
 
