@@ -237,3 +237,4 @@ Algorithm、Review、Tip、Share
 |week47|[Rust中错误类型Result](./week47/share/Rust中错误类型Result.md)|
 |week48|[Rustlings中Generic3练习](./week48/share/Rustlings中Generic3练习.md)|
 |week49|[使用axum来构建简单的web服务](./week49/share/使用axum来构建简单的web服务.md)|
+|week50|[cpprest简单教程](./week50/share/cpprest简单教程.md)|
