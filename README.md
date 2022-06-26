@@ -127,6 +127,7 @@ Algorithm、Review、Tip、Share
 |week47|[C++11,C++14,C++17和C++20中lambda的演进](./week47/review/C++11,C++14,C++17和C++20中lambda的演进.md)|
 |week48|[C++嵌套类](./week48/review/C++嵌套类.md)|
 |week49|[用命令行访问剪贴板](./week49/review/用命令行访问剪贴板.md)|
+|week50|[在Linux中查找东西](./week50/review/在Linux中查找东西.md)|
 
 ## Tip
 
