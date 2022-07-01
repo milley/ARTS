@@ -240,3 +240,4 @@ Algorithm、Review、Tip、Share
 |week48|[Rustlings中Generic3练习](./week48/share/Rustlings中Generic3练习.md)|
 |week49|[使用axum来构建简单的web服务](./week49/share/使用axum来构建简单的web服务.md)|
 |week50|[cpprest简单教程](./week50/share/cpprest简单教程.md)|
+|week51|[使用Rust爬取文件并下载](./week51/share/使用Rust爬取文件并下载.md)|
