@@ -54,6 +54,7 @@ Algorithm、Review、Tip、Share
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](./week36/algo/lc231/Solution.java)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./week09/algo/lc232/MyQueue.java)|Easy|
+|234|[Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/)|[Python](./week51/algo/../../week52/algo/lc234/Solution.py)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Java](./week22/algo/lc235/Solution.java)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Java](./week22/algo/lc236/Solution.java)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](./week15/algo/lc239/Solution.java)|Hard|
@@ -63,6 +64,7 @@ Algorithm、Review、Tip、Share
 |300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[Java](./week46/algo/lc300/Solution.java)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./week42/algo/lc309/Solution.java)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./week47/algo/lc322/Solution.java)|Medium|
+|328|[Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/)|[Python](./week51/../week52/algo/lc328/Solution.py)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./week36/algo/lc338/Solution.java)|Medium|
 |345|[Reverse Vowels of a String](https://leetcode.cn/problems/reverse-vowels-of-a-string/)|[Python](./week51/algo/lc345/Solution.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
