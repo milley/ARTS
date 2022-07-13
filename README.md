@@ -131,6 +131,8 @@ Algorithm、Review、Tip、Share
 |week48|[C++嵌套类](./week48/review/C++嵌套类.md)|
 |week49|[用命令行访问剪贴板](./week49/review/用命令行访问剪贴板.md)|
 |week50|[在Linux中查找东西](./week50/review/在Linux中查找东西.md)|
+|week51|[Rust参考-宏](./week51/review/Rust参考-宏.md)|
+|week52|[Rust过程宏](./week52/review/Rust过程宏.md)|
 
 ## Tip
 
