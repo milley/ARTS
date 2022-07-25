@@ -194,6 +194,7 @@ Algorithm、Review、Tip、Share
 |week50|[npm的替代品pnpm](./week50/tip/npm的替代品pnpm.md)|
 |week51|[RustCoreutils](./week51/tip/RustCoreutils.md)|
 |week52|[终端音乐播放引擎musikcube](./week52/tip/终端音乐播放引擎musikcube.md)|
+|week53|[code-server](./week53/tip/code-server.md)|
 
 ## Share
 
