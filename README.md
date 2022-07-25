@@ -68,9 +68,11 @@ Algorithm、Review、Tip、Share
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./week36/algo/lc338/Solution.java)|Medium|
 |345|[Reverse Vowels of a String](https://leetcode.cn/problems/reverse-vowels-of-a-string/)|[Python](./week51/algo/lc345/Solution.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
+|430|[Flatten a Multilevel Doubly Linked List](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/)|[Python](./week53/algo/lc430/Solution.py)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
+|707|[Design Linked List](https://leetcode.cn/problems/design-linked-list/)|[Python](./week53/algo/lc707/Solution.py),[Python](./week53/algo/lc707-1/Solution.py)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./week43/algo/lc714/Solution.java)|Medium|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[C++](./week26/algo/lc860/Solution.cpp)|Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
@@ -133,6 +135,7 @@ Algorithm、Review、Tip、Share
 |week50|[在Linux中查找东西](./week50/review/在Linux中查找东西.md)|
 |week51|[Rust参考-宏](./week51/review/Rust参考-宏.md)|
 |week52|[Rust过程宏](./week52/review/Rust过程宏.md)|
+|week53|[深拷贝vs浅拷贝](./week53/review/深拷贝vs浅拷贝.md)|
 
 ## Tip
 
