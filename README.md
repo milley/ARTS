@@ -23,6 +23,7 @@ Algorithm、Review、Tip、Share
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./week30/algo/lc51/SolutionBetter.java),[Python](./week30/algo/lc51/Solution.py)|Hard|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](./week31/algo/lc52/Solution.java)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./week02/algo/lc53/PolitenessSolution.java)|Easy|
+|61|[Rotate List](https://leetcode.cn/problems/rotate-list/)|[Python](./week54/algo/lc61/Solution.py)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./week21/algo/lc66/Solution.java)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./week28/algo/lc70/Solution.java),[Python](./week28/algo/lc70/Solution.py)|Easy|
 |75|[Sort Colors](https://leetcode.cn/problems/sort-colors/)|[Python](./week50/algo/lc75/Solution.py)|Medium|
@@ -38,6 +39,7 @@ Algorithm、Review、Tip、Share
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./week25/algo/lc122/Solution.java)|Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./week40/algo/lc123/Solution.java)|Hard|
 |125|[Valid Palindrome](https://leetcode.cn/problems/valid-palindrome/)|[Python](./week51/algo/lc125/Solution.py)|Easy|
+|138|[Copy List with Random Pointer](https://leetcode.cn/problems/copy-list-with-random-pointer/)|[Python](./week54/algo/lc138/Solution.py)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./week38/algo/lc152/Solution.java),[Python](./week38/algo/lc152/Solution.py)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)|[Python](./week51/algo/lc167/Solution.py)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./week24/algo/lc169/Solution.java)|Easy|
@@ -60,6 +62,7 @@ Algorithm、Review、Tip、Share
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](./week15/algo/lc239/Solution.java)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./week17/algo/lc242/Solution.java)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./week11/algo/lc257/Solution.java)|Easy|
+|268|[Missing Number](https://leetcode.cn/problems/missing-number/)|[Python](./week54/algo/lc268/Solution.py)|Easy|
 |283|[Move Zeroes](https://leetcode.cn/problems/move-zeroes/)|[Python](./week49/algo/lc283/Solution.py)|Easy|
 |300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[Java](./week46/algo/lc300/Solution.java)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./week42/algo/lc309/Solution.java)|Medium|
@@ -71,6 +74,7 @@ Algorithm、Review、Tip、Share
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/)|[Python](./week53/algo/lc430/Solution.py)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
+|622|[Design Circular Queue](https://leetcode.cn/problems/design-circular-queue/)|[Python](./week54/algo/lc622/Solution.py)|Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 |707|[Design Linked List](https://leetcode.cn/problems/design-linked-list/)|[Python](./week53/algo/lc707/Solution.py),[Python](./week53/algo/lc707-1/Solution.py)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./week43/algo/lc714/Solution.java)|Medium|
