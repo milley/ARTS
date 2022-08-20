@@ -151,7 +151,6 @@ Algorithm、Review、Tip、Share
 |week51|[Rust参考-宏](./week51/review/Rust参考-宏.md)|
 |week52|[Rust过程宏](./week52/review/Rust过程宏.md)|
 |week53|[深拷贝vs浅拷贝](./week53/review/深拷贝vs浅拷贝.md)|
-|week54|[python3中nonlocal](./week54/tip/python3中nonlocal.md)|
 
 ## Tip
 
@@ -211,6 +210,7 @@ Algorithm、Review、Tip、Share
 |week51|[RustCoreutils](./week51/tip/RustCoreutils.md)|
 |week52|[终端音乐播放引擎musikcube](./week52/tip/终端音乐播放引擎musikcube.md)|
 |week53|[code-server](./week53/tip/code-server.md)|
+|week54|[python3中nonlocal](./week54/tip/python3中nonlocal.md)|
 
 ## Share
 
