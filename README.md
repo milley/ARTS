@@ -151,6 +151,7 @@ Algorithm、Review、Tip、Share
 |week51|[Rust参考-宏](./week51/review/Rust参考-宏.md)|
 |week52|[Rust过程宏](./week52/review/Rust过程宏.md)|
 |week53|[深拷贝vs浅拷贝](./week53/review/深拷贝vs浅拷贝.md)|
+|week54|[python3中nonlocal](./week54/tip/python3中nonlocal.md)|
 
 ## Tip
 
