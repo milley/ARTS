@@ -80,11 +80,15 @@ Algorithm、Review、Tip、Share
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/)|[Python](./week53/algo/lc430/Solution.py)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
+|494|[Target Sum](https://leetcode.cn/problems/target-sum/)|[Python](./week54/algo/lc494/Solution.py)|Medium|
+|542|[01 Matrix](https://leetcode.cn/problems/01-matrix/)|[Python](./week54/algo/lc542/Solution.py),[C++](./week54/algo/lc542/Solution.cpp)|Medium|
 |622|[Design Circular Queue](https://leetcode.cn/problems/design-circular-queue/)|[Python](./week54/algo/lc622/Solution.py)|Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 |707|[Design Linked List](https://leetcode.cn/problems/design-linked-list/)|[Python](./week53/algo/lc707/Solution.py),[Python](./week53/algo/lc707-1/Solution.py)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./week43/algo/lc714/Solution.java)|Medium|
+|733|[Flood Fill](https://leetcode.cn/problems/flood-fill/)|[Python](./week54/algo/lc733/Solution.py)|Easy|
 |752|[Open the Lock](https://leetcode.cn/problems/open-the-lock/)|[C++](./week54/algo/lc752/Solution.cpp),[Python](./week54/algo/lc752/Solution.py)|Medium|
+|841|[Keys and Rooms](https://leetcode.cn/problems/keys-and-rooms/)|[Python](./week54/algo/lc841/Solution.py)|Medium|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[C++](./week26/algo/lc860/Solution.cpp)|Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./week16/algo/lc1108/Solution.java)|Easy|
