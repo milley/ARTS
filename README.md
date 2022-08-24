@@ -268,3 +268,4 @@ Algorithm、Review、Tip、Share
 |week50|[cpprest简单教程](./week50/share/cpprest简单教程.md)|
 |week51|[使用Rust爬取文件并下载](./week51/share/使用Rust爬取文件并下载.md)|
 |week52|[Rust自定义Release下的构建配置](./week52/share/Rust自定义Release下的构建配置.md)|
+|week53|[Python中sort和sorted](./week53/share/Python中sort和sorted.md)|
