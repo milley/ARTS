@@ -267,3 +267,4 @@ Algorithm、Review、Tip、Share
 |week49|[使用axum来构建简单的web服务](./week49/share/使用axum来构建简单的web服务.md)|
 |week50|[cpprest简单教程](./week50/share/cpprest简单教程.md)|
 |week51|[使用Rust爬取文件并下载](./week51/share/使用Rust爬取文件并下载.md)|
+|week52|[Rust自定义Release下的构建配置](./week52/share/Rust自定义Release下的构建配置.md)|
