@@ -41,6 +41,8 @@ Algorithm、Review、Tip、Share
 |125|[Valid Palindrome](https://leetcode.cn/problems/valid-palindrome/)|[Python](./week51/algo/lc125/Solution.py)|Easy|
 |133|[Clone Graph](https://leetcode.cn/problems/clone-graph/)|[Python](./week54/algo/lc133/Solution.py)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.cn/problems/copy-list-with-random-pointer/)|[Python](./week54/algo/lc138/Solution.py)|Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[Python](./week55/algo/lc144/Solution.py)|Easy|
+|145|[Binary Tree Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/)|[Python](./week55/algo/lc145/Solution.py)|Easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./week38/algo/lc152/Solution.java),[Python](./week38/algo/lc152/Solution.py)|Medium|
 |155|[Min Stack](https://leetcode.cn/problems/min-stack/)|[C++](./week54/algo/lc155/Solution.cpp),[Python](./week54/algo/lc155/Solution.py)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)|[Python](./week51/algo/lc167/Solution.py)|Medium|
@@ -72,15 +74,20 @@ Algorithm、Review、Tip、Share
 |300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[Java](./week46/algo/lc300/Solution.java)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./week42/algo/lc309/Solution.java)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./week47/algo/lc322/Solution.java)|Medium|
+|326|[Power of Three](https://leetcode.cn/problems/power-of-three/)|[Python](./week55/algo/lc326/Solution.py)|Easy|
 |328|[Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/)|[Python](./week51/../week52/algo/lc328/Solution.py)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./week36/algo/lc338/Solution.java)|Medium|
+|342|[Power of Four](https://leetcode.cn/problems/power-of-four/)|[Python](./week55/algo/lc342/Solution.py)|Easy|
+|344|[Reverse String](https://leetcode.cn/problems/reverse-string/)|[Python](./week55/algo/lc344/Solution.py)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.cn/problems/reverse-vowels-of-a-string/)|[Python](./week51/algo/lc345/Solution.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
 |394|[Decode String](https://leetcode.cn/problems/decode-string/)|[Python](./week54/algo/lc394/Solution.py)|Medium|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/)|[Python](./week53/algo/lc430/Solution.py)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
+|451|[Sort Characters By Frequency](https://leetcode.cn/problems/sort-characters-by-frequency/)|[Python](./week55/algo/lc451/Solution.py)|Medium|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
 |494|[Target Sum](https://leetcode.cn/problems/target-sum/)|[Python](./week54/algo/lc494/Solution.py)|Medium|
+|509|[Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/)|[Python](./week55/algo/lc509/Solution.py)|Easy|
 |542|[01 Matrix](https://leetcode.cn/problems/01-matrix/)|[Python](./week54/algo/lc542/Solution.py),[C++](./week54/algo/lc542/Solution.cpp)|Medium|
 |622|[Design Circular Queue](https://leetcode.cn/problems/design-circular-queue/)|[Python](./week54/algo/lc622/Solution.py)|Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
@@ -93,6 +100,8 @@ Algorithm、Review、Tip、Share
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./week16/algo/lc1108/Solution.java)|Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Java](./week24/algo/lc1154/Solution.java)|Easy|
+|1921|[Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/)|[Python](./week55/algo/lc1921/Solution.py)|Medium|
+|2165|[Smallest Value of the Rearranged Number](https://leetcode.cn/problems/smallest-value-of-the-rearranged-number/)|[Python](./week55/algo/lc2165/Solution.py)|Medium|
 
 ## Review
 
