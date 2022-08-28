@@ -162,6 +162,7 @@ Algorithm、Review、Tip、Share
 |week53|[深拷贝vs浅拷贝](./week53/review/深拷贝vs浅拷贝.md)|
 |week54|[Python排序字典](./week54/review/Python排序字典.md)|
 |week55|[我是如何学习Rust](./week55/review/我是如何学习Rust.md)|
+|week56|[苹果为什么要切换到基于ARM的Mac](https://www.mattrichman.net/why-apple-will-switch-to-arm-based-macs/)|
 
 ## Tip
 
