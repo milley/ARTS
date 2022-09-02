@@ -57,7 +57,7 @@ Algorithm、Review、Tip、Share
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](./week35/algo/lc212/Solution.java),[Python](./week35/algo/lc212/Solution.py)|Hard|
 |215|[Kth Largest Element in an Array](https://leetcode.cn/problems/kth-largest-element-in-an-array/)|[Python](./week50/algo/lc215/Solution.py)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/)|[Java](./week45/algo/lc222/Solution.java)|Medium|
-|225|[Implement Stack using Queues](https://leetcode.cn/problems/implement-stack-using-queues/)|[C++](./week54/algo/lc225/MyStack.cpp)[Python](./week54/algo/lc225/MyStack.py)|Easy|
+|225|[Implement Stack using Queues](https://leetcode.cn/problems/implement-stack-using-queues/)|[C++](./week54/algo/lc225/MyStack.cpp),[Python](./week54/algo/lc225/MyStack.py)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./week10/algo/lc226/Solution.java)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./week08/algo/lc227/Calculator.java)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](./week36/algo/lc231/Solution.java)|Easy|
@@ -82,9 +82,11 @@ Algorithm、Review、Tip、Share
 |345|[Reverse Vowels of a String](https://leetcode.cn/problems/reverse-vowels-of-a-string/)|[Python](./week51/algo/lc345/Solution.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
 |394|[Decode String](https://leetcode.cn/problems/decode-string/)|[Python](./week54/algo/lc394/Solution.py)|Medium|
+|414|[Third Maximum Number](https://leetcode.cn/problems/third-maximum-number/)|[Python](./week56/algo/lc414/Solution.py)|Easy|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/)|[Python](./week53/algo/lc430/Solution.py)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
 |451|[Sort Characters By Frequency](https://leetcode.cn/problems/sort-characters-by-frequency/)|[Python](./week55/algo/lc451/Solution.py)|Medium|
+|452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](./week56/algo/lc452/Solution.cpp),[C++](./week56/algo/lc452/Solution.cpp)|Medium|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
 |494|[Target Sum](https://leetcode.cn/problems/target-sum/)|[Python](./week54/algo/lc494/Solution.py)|Medium|
 |509|[Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/)|[Python](./week55/algo/lc509/Solution.py)|Easy|
