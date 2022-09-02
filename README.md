@@ -284,3 +284,4 @@ Algorithm、Review、Tip、Share
 |week52|[Rust自定义Release下的构建配置](./week52/share/Rust自定义Release下的构建配置.md)|
 |week53|[Python中sort和sorted](./week53/share/Python中sort和sorted.md)|
 |week54|[Rust宏入门1](./week54/share/Rust宏入门1.md)|
+|week55|[Rust过程宏2](./week55/share/Rust过程宏2.md)|
