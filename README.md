@@ -82,6 +82,7 @@ Algorithm、Review、Tip、Share
 |345|[Reverse Vowels of a String](https://leetcode.cn/problems/reverse-vowels-of-a-string/)|[Python](./week51/algo/lc345/Solution.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./week04/algo/lc347/TopKSolution.java)|Easy|
 |394|[Decode String](https://leetcode.cn/problems/decode-string/)|[Python](./week54/algo/lc394/Solution.py)|Medium|
+|404|[Sum of Left Leaves](https://leetcode.cn/problems/sum-of-left-leaves/)|[Python](./week57/algo/lc404/Solution.py)|Easy|
 |414|[Third Maximum Number](https://leetcode.cn/problems/third-maximum-number/)|[Python](./week56/algo/lc414/Solution.py)|Easy|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/)|[Python](./week53/algo/lc430/Solution.py)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./week13/algo/lc448/Solution.java)|Easy|
@@ -89,6 +90,7 @@ Algorithm、Review、Tip、Share
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](./week56/algo/lc452/Solution.cpp),[C++](./week56/algo/lc452/Solution.cpp)|Medium|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](./week14/algo/lc453/Solution.java)|Easy|
 |494|[Target Sum](https://leetcode.cn/problems/target-sum/)|[Python](./week54/algo/lc494/Solution.py)|Medium|
+|501|[Find Mode in Binary Search Tree](https://leetcode.cn/problems/find-mode-in-binary-search-tree/)|[Python](./week57/algo/lc501/Solution.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/)|[Python](./week55/algo/lc509/Solution.py)|Easy|
 |542|[01 Matrix](https://leetcode.cn/problems/01-matrix/)|[Python](./week54/algo/lc542/Solution.py),[C++](./week54/algo/lc542/Solution.cpp)|Medium|
 |622|[Design Circular Queue](https://leetcode.cn/problems/design-circular-queue/)|[Python](./week54/algo/lc622/Solution.py)|Medium|
@@ -101,9 +103,12 @@ Algorithm、Review、Tip、Share
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[C++](./week26/algo/lc860/Solution.cpp)|Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./week16/algo/lc1108/Solution.java)|Easy|
+|1137|[N-th Tribonacci Number](https://leetcode.cn/problems/n-th-tribonacci-number/)|[Python](./week57/algo/lc1137/Solution.py)|Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Java](./week24/algo/lc1154/Solution.java)|Easy|
+|1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.cn/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|[Python](./week57/algo/lc1442/Solution.py)|Medium|
 |1921|[Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/)|[Python](./week55/algo/lc1921/Solution.py)|Medium|
 |2165|[Smallest Value of the Rearranged Number](https://leetcode.cn/problems/smallest-value-of-the-rearranged-number/)|[Python](./week55/algo/lc2165/Solution.py)|Medium|
+|offerII.113|[课程顺序](https://leetcode.cn/problems/QA2IGt/)|[Python](./week57/algo/offerII113/Solution.py)|Medium|
 
 ## Review
 
