@@ -239,6 +239,7 @@ Algorithm、Review、Tip、Share
 |week54|[python3中nonlocal](./week54/tip/python3中nonlocal.md)|
 |week55|[VS2019批量修改Windows SDK Version](./week55/tip/VS2019批量修改Windows%20SDK%20Version.md)|
 |week56|[AI在线抠图工具](./week56/tip/AI在线抠图工具.md)|
+|week57|[Electron-vite脚手架](./week57/tip/Electron-vite脚手架.md)|
 
 ## Share
 
