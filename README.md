@@ -32,6 +32,7 @@ Algorithm、Review、Tip、Share
 |88|[Merge Sorted Array](https://leetcode.cn/problems/merge-sorted-array/)|[Python](./week50/algo/lc88/Solution.py)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./week20/algo/lc98/Solution.java)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./week12/algo/lc101/Solution.java)|Easy|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/)|[Python](./week58/algo/lc103/Solution.py)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./week27/algo/lc104/Solution.java)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./week27/algo/lc111/Solution.java)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Java](./week37/algo/lc120/Solution.java)|Medium|
@@ -43,6 +44,8 @@ Algorithm、Review、Tip、Share
 |138|[Copy List with Random Pointer](https://leetcode.cn/problems/copy-list-with-random-pointer/)|[Python](./week54/algo/lc138/Solution.py)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[Python](./week55/algo/lc144/Solution.py)|Easy|
 |145|[Binary Tree Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/)|[Python](./week55/algo/lc145/Solution.py)|Easy|
+|146|[LRU Cache](https://leetcode.cn/problems/lru-cache/)|[Python](./week58/algo/lc146/Solution.py)|Medium|
+|148|[Sort List](https://leetcode.cn/problems/sort-list/)|[Python](./week58/algo/lc148/Solution.py)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./week38/algo/lc152/Solution.java),[Python](./week38/algo/lc152/Solution.py)|Medium|
 |155|[Min Stack](https://leetcode.cn/problems/min-stack/)|[C++](./week54/algo/lc155/Solution.cpp),[Python](./week54/algo/lc155/Solution.py)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)|[Python](./week51/algo/lc167/Solution.py)|Medium|
@@ -99,15 +102,19 @@ Algorithm、Review、Tip、Share
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./week43/algo/lc714/Solution.java)|Medium|
 |733|[Flood Fill](https://leetcode.cn/problems/flood-fill/)|[Python](./week54/algo/lc733/Solution.py)|Easy|
 |752|[Open the Lock](https://leetcode.cn/problems/open-the-lock/)|[C++](./week54/algo/lc752/Solution.cpp),[Python](./week54/algo/lc752/Solution.py)|Medium|
+|786|[K-th Smallest Prime Fraction](https://leetcode.cn/problems/k-th-smallest-prime-fraction/)|[Python](./week58/algo/lc786/Solution.py)|Medium|
 |841|[Keys and Rooms](https://leetcode.cn/problems/keys-and-rooms/)|[Python](./week54/algo/lc841/Solution.py)|Medium|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[C++](./week26/algo/lc860/Solution.cpp)|Easy|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./week14/algo/lc1103/Solution.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./week16/algo/lc1108/Solution.java)|Easy|
+|1129|[Shortest Path with Alternating Colors](https://leetcode.cn/problems/shortest-path-with-alternating-colors/)|[Python](./week58/algo/lc1129/Solution.py)|Medium|
 |1137|[N-th Tribonacci Number](https://leetcode.cn/problems/n-th-tribonacci-number/)|[Python](./week57/algo/lc1137/Solution.py)|Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Java](./week24/algo/lc1154/Solution.java)|Easy|
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.cn/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|[Python](./week57/algo/lc1442/Solution.py)|Medium|
+|1605|[Find Valid Matrix Given Row and Column Sums](https://leetcode.cn/problems/find-valid-matrix-given-row-and-column-sums/)|[Python](./week58/algo/lc1605/Solution.py)|Medium|
 |1921|[Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/)|[Python](./week55/algo/lc1921/Solution.py)|Medium|
 |2165|[Smallest Value of the Rearranged Number](https://leetcode.cn/problems/smallest-value-of-the-rearranged-number/)|[Python](./week55/algo/lc2165/Solution.py)|Medium|
+|2331|[Evaluate Boolean Binary Tree](https://leetcode.cn/problems/evaluate-boolean-binary-tree/)|[Python](./week58/algo/lc2331/Solution.py)|Easy|
 |offerII.113|[课程顺序](https://leetcode.cn/problems/QA2IGt/)|[Python](./week57/algo/offerII113/Solution.py)|Medium|
 
 ## Review
