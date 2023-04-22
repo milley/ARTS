@@ -177,6 +177,8 @@ Algorithm、Review、Tip、Share
 |week54|[Python排序字典](./week54/review/Python排序字典.md)|
 |week55|[我是如何学习Rust](./week55/review/我是如何学习Rust.md)|
 |week56|[苹果为什么要切换到基于ARM的Mac](https://www.mattrichman.net/why-apple-will-switch-to-arm-based-macs/)|
+|week57|[Python排序容器](./week57/review/Python排序容器.md)|
+|week58|[函数式编程和面向对象编程的区别](./week58/review/函数式编程和面向对象编程的区别.md)|
 
 ## Tip
 
