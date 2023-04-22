@@ -19,6 +19,8 @@ Algorithm、Review、Tip、Share
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./week33/algo/lc36/Solution.java)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](./week32/algo/lc37/Solution.java),[C++](./week32/algo/lc37/Solution.cpp)|Hard|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[Java](./week05/algo/lc38/Solution.java)|Easy|
+|46|[Permutations](https://leetcode.cn/problems/permutations/)|[Python](./week59/algo/lc46/Solution.py)|Medium|
+|47|[Permutations II](https://leetcode.cn/problems/permutations-ii/)|[Python](./week59/algo/lc47/Solution.py)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./week23/algo/lc50/Solution.java)|Medium|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./week30/algo/lc51/SolutionBetter.java),[Python](./week30/algo/lc51/Solution.py)|Hard|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](./week31/algo/lc52/Solution.java)|Hard|
@@ -96,6 +98,7 @@ Algorithm、Review、Tip、Share
 |501|[Find Mode in Binary Search Tree](https://leetcode.cn/problems/find-mode-in-binary-search-tree/)|[Python](./week57/algo/lc501/Solution.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/)|[Python](./week55/algo/lc509/Solution.py)|Easy|
 |542|[01 Matrix](https://leetcode.cn/problems/01-matrix/)|[Python](./week54/algo/lc542/Solution.py),[C++](./week54/algo/lc542/Solution.cpp)|Medium|
+|547|[Number of Provinces](https://leetcode.cn/problems/number-of-provinces/)|[Python](./week59/algo/lc547/Solution.py)|Medium|
 |622|[Design Circular Queue](https://leetcode.cn/problems/design-circular-queue/)|[Python](./week54/algo/lc622/Solution.py)|Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Java](./week06/algo/lc703/KthLargest.java)|Easy|
 |707|[Design Linked List](https://leetcode.cn/problems/design-linked-list/)|[Python](./week53/algo/lc707/Solution.py),[Python](./week53/algo/lc707-1/Solution.py)|Medium|
@@ -112,9 +115,12 @@ Algorithm、Review、Tip、Share
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Java](./week24/algo/lc1154/Solution.java)|Easy|
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.cn/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|[Python](./week57/algo/lc1442/Solution.py)|Medium|
 |1605|[Find Valid Matrix Given Row and Column Sums](https://leetcode.cn/problems/find-valid-matrix-given-row-and-column-sums/)|[Python](./week58/algo/lc1605/Solution.py)|Medium|
+|lc1638|[Count Substrings That Differ by One Character](https://leetcode.cn/problems/count-substrings-that-differ-by-one-character/)|[Cpp](./week59/algo/lc1638/Solution.cpp),[Python](./week59/algo/lc1638/Solution.py)|Medium|
 |1921|[Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/)|[Python](./week55/algo/lc1921/Solution.py)|Medium|
 |2165|[Smallest Value of the Rearranged Number](https://leetcode.cn/problems/smallest-value-of-the-rearranged-number/)|[Python](./week55/algo/lc2165/Solution.py)|Medium|
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.cn/problems/evaluate-boolean-binary-tree/)|[Python](./week58/algo/lc2331/Solution.py)|Easy|
+|2367|[Number of Arithmetic Triplets](https://leetcode.cn/problems/number-of-arithmetic-triplets/)|[Python](./week59/algo/lc2367/Solution.py)|Easy|
+|2600|[K Items With the Maximum Sum](https://leetcode.cn/problems/k-items-with-the-maximum-sum/)|[Python](./week59/algo/lc2600/Solution.py)|Easy|
 |offerII.113|[课程顺序](https://leetcode.cn/problems/QA2IGt/)|[Python](./week57/algo/offerII113/Solution.py)|Medium|
 
 ## Review
